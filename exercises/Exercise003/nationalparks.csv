@@ -1,0 +1,73 @@
+ParkTitle,City,State,ParkType,Area,AreaValues,Visitors2021
+Great Smoky Mountains National Park,Gatlinburg,TN,National park,816.3 sqmi,816.3,14161548
+Zion National Park,Springdale,UT,National park,229.1 sqmi,229.1,5039835
+Yellowstone National Park,Jackson,WY,National park,3468.4 sqmi,3468.4,4860242
+Grand Canyon National Park,Grand Canyon Village,AZ,National park,1902.0 sqmi,1902.0,4532677
+Rocky Mountain National Park,Estes Park,CO,National park,414.8 sqmi,414.8,4434848
+Acadia National Park,Bar Harbor,ME,National park,76.7 sqmi,76.7,4069098
+Grand Teton National Park,Moose,WY,National park,485.0 sqmi,485.0,3885230
+Yosemite National Park,Yosemite Valley,CA,National park,1169.0 sqmi,1169.0,3287595
+Indiana Dunes National Park,Porter,IN,National park,23.5 sqmi,23.5,3177210
+Glacier National Park,Browning,MT,National park,1583.4 sqmi,1583.4,3081656
+Joshua Tree National Park,Joshua Tree,CA,National park,1242.4 sqmi,1242.4,3064400
+Olympic National Park,Port Angeles,WA,National park,1442.0 sqmi,1442.0,2718925
+Cuyahoga Valley National Park,Peninsula,OH,National park,50.9 sqmi,50.9,2575275
+Big Cypress National Preserve,Ochopee,FL,National preserve,1125.9 sqmi,1125.9,2563810
+Hot Springs National Park,Hot Springs National Park,AR,National park,8.7 sqmi,8.7,2162884
+Bryce Canyon National Park,Bryce Canyon City,UT,National park,56.2 sqmi,56.2,2104600
+Arches National Park,Moab,UT,National park,119.8 sqmi,119.8,1806865
+New River Gorge National Park And Preserve,Lansing,WV,National park and preserve,114.1 sqmi,114.1,1682720
+Mount Rainier National Park,Ashford,WA,National park,369.3 sqmi,369.3,1670063
+Shenandoah National Park,Luray,VA,National park,311.2 sqmi,311.2,1592312
+Capitol Reef National Park,Torrey,UT,National park,378.0 sqmi,378.0,1405353
+Hawaii Volcanoes National Park,Volcano,HI,National park,505.4 sqmi,505.4,1262747
+Badlands National Park,Interior,SD,National park,379.3 sqmi,379.3,1224226
+Death Valley National Park,Furnace Creek,CA,National park,5270.0 sqmi,5270.0,1146551
+Gateway Arch National Park,St. Louis,MO,National park,0.1 sqmi,0.1,1145081
+Saguaro National Park,Tucson,AZ,National park,143.3 sqmi,143.3,1079786
+Sequoia National Park,Three Rivers,CA,National park,631.4 sqmi,631.4,1059548
+Everglades National Park,Homestead,FL,National park,2356.6 sqmi,2356.6,942130
+Canyonlands National Park,Moab,UT,National park,527.5 sqmi,527.5,911594
+Mojave National Preserve,Kelso,CA,National preserve,2410.4 sqmi,2410.4,866635
+Little River Canyon National Preserve,Fort Payne,AL,National preserve,23.9 sqmi,23.9,862606
+Haleakala National Park,Kula,HI,National park,52.0 sqmi,52.0,853181
+Theodore Roosevelt National Park,Belfield,ND,National park,110.1 sqmi,110.1,796085
+White Sands National Park,Alamogordo,NM,National park,227.8 sqmi,227.8,782469
+Wind Cave National Park,Hot Springs,SD,National park,52.88 sqmi,52.88,709001
+Biscayne National Park,Homestead,FL,National park,270.3 sqmi,270.3,705655
+Crater Lake National Park,Crater Lake,OR,National park,286.3 sqmi,286.3,647751
+Great Sand Dunes National Park & Preserve,Mosca,CO,National park & preserve,232.9 sqmi,232.9,602613
+Petrified Forest National Park,Petrified Forest National Park,AZ,National park,229.6 sqmi,229.6,590334
+Big Bend National Park,Big Bend National Park,TX,National park,1251.8 sqmi,1251.8,581220
+Kings Canyon National Park,Grant Grove Village,CA,National park,721.7 sqmi,721.7,562918
+Mesa Verde National Park,Mancos,CO,National park,81.3 sqmi,81.3,548477
+Mammoth Cave National Park,Mammoth Cave,KY,National park,82.6 sqmi,82.6,515774
+Redwood National Park,Hiouchi,CA,National park,30.7 sqmi,30.7,435879
+Kenai Fjords National Park,Seward,AK,National park,1046.9 sqmi,1046.9,411782
+Lassen Volcanic National Park,Mineral,CA,National park,166.3 sqmi,166.3,359635
+Carlsbad Caverns National Park,Carlsbad,NM,National park,73.1 sqmi,73.1,349244
+Pinnacles National Park,Paicines,CA,National park,41.6 sqmi,41.6,348857
+Virgin Islands National Park,St. John,VI,National park,23.0 sqmi,23.0,323999
+Channel Islands National Park,Ventura,CA,National park,389.9 sqmi,389.9,319252
+Black Canyon Of The Gunnison National Park,Montrose,CO,National park,48.0 sqmi,48.0,308910
+Big Thicket National Preserve,Kountze,TX,National preserve,176.8 sqmi,176.8,290837
+Wolf Trap Np For The Performing Arts National Park,Vienna,VA,National park,0.2 sqmi,0.2,247862
+Guadalupe Mountains National Park,Salt Flat,TX,National park,134.9 sqmi,134.9,243291
+Voyageurs National Park,International Falls,MN,National park,340.9 sqmi,340.9,243042
+Denali National Park And Preserve,Denali Park,AK,National park and preserve,9492.0 sqmi,9492.0,229521
+Congaree National Park,Hopkins,SC,National park,41.1 sqmi,41.1,215181
+Great Basin National Park,Baker,NV,National park,120.6 sqmi,120.6,144875
+Glacier Bay National Park And Preserve,Gustavus,AK,National park and preserve,5129.0 sqmi,5129.0,89768
+Dry Tortugas National Park,Key West,FL,National park,101.0 sqmi,101.0,83817
+Valles Caldera National Preserve,Jemez Springs,NM,National preserve,140.3 sqmi,140.3,76578
+Wrangell-St. Elias National Park & Preserve,Copper Center,AK,National park & preserve,20587.2 sqmi,20587.2,50189
+Tallgrass Prairie National Preserve,Cottonwood Falls,KS,National preserve,17.0 sqmi,17.0,35001
+Isle Royale National Park,Windigo,MI,National park,893.0 sqmi,893.0,25844
+Katmai National Park And Preserve,King Salmon,AK,National park and preserve,6395.4 sqmi,6395.4,24764
+Lake Clark National Park & Preserve,Port Alsworth,AK,National park & preserve,6296.9 sqmi,6296.9,18278
+North Cascades National Park,Marblemount,WA,National park,788.5 sqmi,788.5,17855
+Noatak National Preserve,Kotzebue,AK,National preserve,10265.5 sqmi,10265.5,12891
+Kobuk Valley National Park,Kotzebue,AK,National park,2735.5 sqmi,2735.5,11540
+Gates Of The Arctic National Park & Preserve,Bettles,AK,National park & preserve,13238.3 sqmi,13238.3,7362
+Bering Land Bridge National Preserve,Nome,AK,National preserve,4214.7 sqmi,4214.7,2642
+Yukon-Charley Rivers National Preserve,Fairbanks,AK,National preserve,3946.1 sqmi,3946.1,629

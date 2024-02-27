@@ -1,0 +1,3512 @@
+problem,brand,repair_status,event_year,age
+unknown,lenovo,fixed,2019,0.0
+virus/malware,lenovo,fixed,2018,0.0
+operating system,geo,fixed,2019,0.0
+multiple,hp,fixed,2019,0.0
+virus/malware,hp,fixed,2018,0.0
+integrated screen,hp,fixed,2020,0.0
+integrated screen,acer,repairable,2020,0.0
+operating system,hp,repairable,2018,0.0
+integrated screen,lenovo,repairable,2018,0.0
+configuration,lenovo,fixed,2019,0.0
+ports/slots/connectors,asus,repairable,2019,0.0
+unknown,acer,repairable,2020,0.0
+unknown,intel,fixed,2017,0.0
+virus/malware,acer,repairable,2019,0.0
+configuration,ace,repairable,2019,0.0
+unknown,acer,repairable,2018,1.0
+performance,acer,repairable,2019,1.0
+configuration,hp,fixed,2019,1.0
+configuration,microsoft,fixed,2019,1.0
+unknown,hp,fixed,2020,1.0
+internal damage,lenovo,fixed,2019,1.0
+operating system,hp,fixed,2020,1.0
+integrated screen,microsoft,repairable,2019,1.0
+configuration,lenovo,fixed,2020,1.0
+configuration,lenovo,fixed,2019,1.0
+performance,lenovo,repairable,2019,1.0
+configuration,hp,fixed,2018,1.0
+system board,hp,fixed,2019,1.0
+unknown,acer,fixed,2020,1.0
+unknown,dell,repairable,2020,1.0
+integrated screen,dell,repairable,2018,1.0
+unknown,asus,repairable,2017,1.0
+configuration,hp,repairable,2018,1.0
+unknown,unknown,fixed,2018,1.0
+other,fujitsu,fixed,2019,1.0
+configuration,asus,end of life,2017,1.0
+integrated screen,hp,repairable,2019,1.0
+power/battery,lenovo,fixed,2019,1.0
+unknown,unknown,fixed,2019,1.0
+configuration,hp,fixed,2019,1.0
+virus/malware,apple,fixed,2018,1.0
+operating system,toshiba,fixed,2017,2.0
+configuration,apple,fixed,2019,2.0
+unknown,hp,repairable,2017,2.0
+integrated keyboard,acer,repairable,2019,2.0
+configuration,hp,fixed,2020,2.0
+power/battery,apple,repairable,2019,2.0
+configuration,moto-flex,fixed,2019,2.0
+case/chassis,asus,fixed,2018,2.0
+configuration,hp,fixed,2019,2.0
+power/battery,asus,end of life,2019,2.0
+configuration,unknown,fixed,2019,2.0
+performance,lenovo,fixed,2019,2.0
+unknown,acer,fixed,2020,2.0
+unknown,unknown,repairable,2019,2.0
+integrated keyboard,acer,repairable,2019,2.0
+operating system,hp,fixed,2019,2.0
+configuration,packard bell,fixed,2017,2.0
+internal storage,lenovo,fixed,2019,2.0
+configuration,lenovo,fixed,2019,2.0
+configuration,hp,repairable,2019,2.0
+case/chassis,lenovo,repairable,2019,2.0
+operating system,hp,fixed,2019,2.0
+case/chassis,asus,repairable,2019,2.0
+integrated screen,hp,repairable,2019,2.0
+integrated keyboard,asus,repairable,2019,2.0
+unknown,hp,repairable,2020,2.0
+internal storage,toshiba,repairable,2019,2.0
+ports/slots/connectors,hp,fixed,2019,2.0
+internal storage,acer,repairable,2019,2.0
+integrated screen,zoostorm,fixed,2020,2.0
+integrated screen,acer,repairable,2017,2.0
+internal damage,asus,fixed,2019,2.0
+boot,asus,unknown,2019,2.0
+power/battery,apple,fixed,2019,2.0
+internal damage,apple,repairable,2018,2.0
+ports/slots/connectors,hp,fixed,2019,2.0
+power/battery,apple,repairable,2019,2.0
+configuration,unknown,fixed,2018,2.0
+power/battery,apple,repairable,2019,2.0
+integrated keyboard,unknown,repairable,2019,2.0
+multiple,lenovo,end of life,2019,2.0
+configuration,nec,fixed,2018,2.0
+integrated screen,unknown,repairable,2019,2.0
+boot,apple,repairable,2019,2.0
+configuration,unknown,fixed,2019,2.0
+integrated keyboard,lenovo,repairable,2019,2.0
+integrated screen,asus,fixed,2018,2.0
+configuration,asus,fixed,2019,2.0
+boot,asus,repairable,2018,2.0
+power/battery,dell,repairable,2018,2.0
+case/chassis,dell,repairable,2018,2.0
+overheating,asus,repairable,2018,2.0
+unknown,acer,fixed,2018,2.0
+integrated screen,google,repairable,2019,2.0
+internal damage,asus,end of life,2019,2.0
+boot,hp,repairable,2019,2.0
+unknown,lenovo,fixed,2017,2.0
+configuration,apple,repairable,2019,2.0
+internal damage,unknown,unknown,2019,2.0
+operating system,asus,fixed,2020,2.0
+configuration,apple,fixed,2019,2.0
+unknown,asus,fixed,2018,2.0
+unknown,hp,fixed,2017,2.0
+power/battery,dell,fixed,2018,2.0
+boot,dell,repairable,2019,2.0
+configuration,microsoft,repairable,2020,2.0
+internal damage,lenovo,fixed,2019,2.0
+unknown,goclever,fixed,2018,2.0
+unknown,asus,repairable,2019,2.0
+integrated screen,lenovo,fixed,2019,2.0
+boot,hp,repairable,2018,2.0
+performance,hp,fixed,2017,2.0
+performance,lenovo,fixed,2019,3.0
+unknown,unknown,end of life,2019,3.0
+other,lenovo,fixed,2019,3.0
+configuration,hp,fixed,2019,3.0
+integrated keyboard,akoya,fixed,2019,3.0
+ports/slots/connectors,samsung,repairable,2018,3.0
+performance,lenovo,repairable,2019,3.0
+configuration,unknown,fixed,2019,3.0
+boot,asus,repairable,2019,3.0
+power/battery,unknown,end of life,2019,3.0
+integrated screen,lenovo,fixed,2019,3.0
+integrated pointing device,apple,repairable,2018,3.0
+integrated screen,hp,end of life,2019,3.0
+configuration,hp,fixed,2018,3.0
+unknown,acer,repairable,2017,3.0
+unknown,sony,repairable,2017,3.0
+integrated screen,toshiba,fixed,2019,3.0
+configuration,toshiba,repairable,2019,3.0
+unknown,toshiba,fixed,2017,3.0
+unknown,asus,fixed,2018,3.0
+configuration,unknown,repairable,2020,3.0
+ports/slots/connectors,apple,repairable,2019,3.0
+integrated screen,apple,repairable,2018,3.0
+integrated keyboard,acer,repairable,2020,3.0
+integrated screen,apple,repairable,2019,3.0
+ports/slots/connectors,acer,end of life,2019,3.0
+other,unknown,repairable,2019,3.0
+internal storage,asus,fixed,2019,3.0
+system board,apple,repairable,2019,3.0
+integrated screen,hp,fixed,2019,3.0
+unknown,lenovo,end of life,2018,3.0
+case/chassis,asus,repairable,2018,3.0
+unknown,packard bell,repairable,2019,3.0
+configuration,hp,repairable,2018,3.0
+power/battery,msi,fixed,2019,3.0
+configuration,unknown,fixed,2020,3.0
+integrated keyboard,toshiba,fixed,2020,3.0
+configuration,lenovo,end of life,2019,3.0
+unknown,hp,end of life,2020,3.0
+operating system,hp,fixed,2020,3.0
+configuration,samsung,fixed,2020,3.0
+internal storage,apple,end of life,2019,3.0
+system board,acer,repairable,2020,3.0
+configuration,unknown,fixed,2020,3.0
+configuration,unknown,fixed,2020,3.0
+configuration,unknown,fixed,2020,3.0
+configuration,unknown,fixed,2020,3.0
+power/battery,acer,fixed,2018,3.0
+unknown,lenovo,repairable,2019,3.0
+unknown,asus,fixed,2018,3.0
+overheating,hp,fixed,2017,3.0
+configuration,unknown,fixed,2017,3.0
+unknown,hp,repairable,2017,3.0
+boot,hp,repairable,2018,3.0
+unknown,acer,fixed,2017,3.0
+unknown,lenovo,repairable,2019,3.0
+integrated screen,lenovo,fixed,2018,3.0
+system board,sony,fixed,2018,3.0
+power/battery,asus,repairable,2018,3.0
+power/battery,asus,repairable,2018,3.0
+unknown,acer,fixed,2018,3.0
+internal storage,asus,repairable,2018,3.0
+internal damage,asus,fixed,2017,3.0
+unknown,hp,fixed,2019,3.0
+performance,lenovo,fixed,2018,3.0
+ports/slots/connectors,compaq,end of life,2019,3.0
+configuration,hp,fixed,2019,3.0
+unknown,fujitsu technology solutions,repairable,2019,3.0
+other,hp,repairable,2019,4.0
+unknown,asus,repairable,2017,4.0
+configuration,hp,fixed,2019,4.0
+case/chassis,dell,repairable,2019,4.0
+unknown,samsung,end of life,2017,4.0
+power/battery,apple,repairable,2019,4.0
+integrated screen,apple,fixed,2019,4.0
+power/battery,apple,repairable,2019,4.0
+integrated screen,hp,repairable,2019,4.0
+ports/slots/connectors,apple,fixed,2019,4.0
+unknown,acer,end of life,2018,4.0
+operating system,acer,repairable,2017,4.0
+power/battery,apple,repairable,2019,4.0
+integrated screen,toshiba,repairable,2019,4.0
+virus/malware,samsung,fixed,2019,4.0
+unknown,acer,fixed,2018,4.0
+unknown,apple,fixed,2019,4.0
+configuration,acer,fixed,2019,4.0
+integrated screen,clementoni,end of life,2019,4.0
+configuration,hp,repairable,2018,4.0
+integrated screen,sony,repairable,2017,4.0
+unknown,acer,repairable,2017,4.0
+boot,unknown,repairable,2019,4.0
+configuration,hp,fixed,2017,4.0
+virus/malware,hp,fixed,2019,4.0
+power/battery,toshiba,fixed,2020,4.0
+operating system,packard bell,fixed,2019,4.0
+power/battery,hp,repairable,2019,4.0
+power/battery,hp,fixed,2019,4.0
+unknown,acer,end of life,2018,4.0
+unknown,acer,fixed,2018,4.0
+system board,acer,repairable,2018,4.0
+performance,lenovo,fixed,2019,4.0
+integrated screen,lenovo,fixed,2019,4.0
+case/chassis,asus,fixed,2017,4.0
+integrated screen,apple macbook pro,repairable,2019,4.0
+system board,unknown,end of life,2019,4.0
+integrated screen,lenovo,repairable,2018,4.0
+integrated screen,asus,fixed,2019,4.0
+unknown,lenovo,repairable,2018,4.0
+integrated screen,lenovo,repairable,2019,4.0
+unknown,hp,repairable,2018,4.0
+internal storage,unknown,fixed,2019,4.0
+internal storage,unknown,fixed,2019,4.0
+internal damage,acer,repairable,2018,4.0
+unknown,microsoft,end of life,2018,4.0
+boot,apple,fixed,2019,4.0
+boot,apple,fixed,2019,4.0
+boot,apple,fixed,2019,4.0
+power/battery,erazer,fixed,2018,4.0
+power/battery,apple,fixed,2018,4.0
+power/battery,apple,fixed,2018,4.0
+integrated screen,apple,repairable,2019,4.0
+integrated screen,apple,repairable,2019,4.0
+unknown,toshiba,end of life,2018,4.0
+power/battery,toshiba,end of life,2019,4.0
+configuration,apple,fixed,2019,4.0
+power/battery,apple,fixed,2019,4.0
+virus/malware,apple,fixed,2019,4.0
+internal damage,msi,repairable,2019,4.0
+boot,medion,fixed,2019,4.0
+other,acer,fixed,2018,4.0
+unknown,asus,end of life,2019,4.0
+unknown,fusion 5,end of life,2019,4.0
+operating system,samsung,fixed,2019,4.0
+operating system,acer,repairable,2019,4.0
+operating system,hp,fixed,2019,4.0
+internal storage,apple,fixed,2019,4.0
+performance,sony,fixed,2019,4.0
+configuration,acer,fixed,2019,4.0
+performance,lenovo,repairable,2019,4.0
+internal damage,toshiba,end of life,2019,4.0
+performance,hp,repairable,2019,4.0
+unknown,asus,repairable,2019,4.0
+integrated keyboard,asus,fixed,2019,4.0
+integrated media component,lenovo,repairable,2019,4.0
+overheating,hp,fixed,2020,4.0
+unknown,lenovo,fixed,2020,4.0
+unknown,apple,end of life,2019,4.0
+power/battery,apple,repairable,2019,4.0
+unknown,apple,repairable,2019,4.0
+performance,lenovo,end of life,2019,4.0
+internal damage,apple,fixed,2020,4.0
+performance,hp,fixed,2019,4.0
+unknown,toshiba,fixed,2017,4.0
+boot,toshiba,end of life,2019,4.0
+power/battery,toshiba,repairable,2019,4.0
+performance,samsung,fixed,2019,4.0
+internal storage,toshiba,fixed,2020,4.0
+power/battery,apple,repairable,2019,4.0
+configuration,lenovo,fixed,2019,4.0
+unknown,hp,fixed,2019,4.0
+operating system,hp,repairable,2019,4.0
+virus/malware,acer,repairable,2019,4.0
+power/battery,lenovo,fixed,2019,4.0
+configuration,hp,fixed,2019,4.0
+case/chassis,hp,end of life,2019,4.0
+virus/malware,toshiba,fixed,2020,4.0
+ports/slots/connectors,apple,repairable,2020,4.0
+case/chassis,lenovo,unknown,2019,4.0
+performance,sony,fixed,2020,4.0
+virus/malware,toshiba,fixed,2019,4.0
+overheating,hp,repairable,2019,4.0
+integrated screen,apple,end of life,2019,5.0
+operating system,compaq,repairable,2018,5.0
+ports/slots/connectors,samsung,repairable,2019,5.0
+integrated keyboard,hp,repairable,2018,5.0
+operating system,asus,fixed,2018,5.0
+configuration,samsung,repairable,2018,5.0
+integrated keyboard,asus,repairable,2019,5.0
+configuration,sony,fixed,2020,5.0
+boot,acer,fixed,2018,5.0
+configuration,unknown,fixed,2019,5.0
+integrated optical drive,hp,fixed,2019,5.0
+unknown,hp,repairable,2019,5.0
+system board,apple,repairable,2019,5.0
+integrated screen,apple,repairable,2019,5.0
+power/battery,lenovo,repairable,2019,5.0
+operating system,asus,repairable,2018,5.0
+power/battery,dell,end of life,2019,5.0
+operating system,asus,repairable,2018,5.0
+integrated keyboard,toshiba,repairable,2018,5.0
+integrated media component,hp,repairable,2018,5.0
+operating system,acer,fixed,2019,5.0
+case/chassis,hp,fixed,2019,5.0
+performance,toshiba,fixed,2018,5.0
+integrated screen,samsung,fixed,2019,5.0
+internal storage,asus,repairable,2018,5.0
+performance,toshiba,fixed,2018,5.0
+integrated keyboard,unknown,repairable,2019,5.0
+operating system,acer,unknown,2019,5.0
+power/battery,apple,repairable,2018,5.0
+multiple,dell,end of life,2018,5.0
+power/battery,acer,repairable,2018,5.0
+integrated screen,toshiba,fixed,2019,5.0
+internal storage,hp,end of life,2018,5.0
+internal damage,apple,end of life,2019,5.0
+ports/slots/connectors,unknown,repairable,2018,5.0
+configuration,unknown,repairable,2017,5.0
+power/battery,dell,repairable,2019,5.0
+ports/slots/connectors,apple,repairable,2019,5.0
+virus/malware,toshiba,fixed,2019,5.0
+unknown,samsung,end of life,2017,5.0
+configuration,hp,repairable,2017,5.0
+boot,sony,repairable,2019,5.0
+boot,sony,repairable,2019,5.0
+unknown,acer,end of life,2019,5.0
+integrated keyboard,hp,fixed,2019,5.0
+multiple,dell,fixed,2020,5.0
+boot,unknown,fixed,2020,5.0
+operating system,asus,fixed,2020,5.0
+operating system,toshiba,repairable,2019,5.0
+multiple,unknown,fixed,2020,5.0
+configuration,asus,fixed,2019,5.0
+internal storage,hp,repairable,2020,5.0
+virus/malware,acer,fixed,2019,5.0
+boot,acer,repairable,2019,5.0
+power/battery,hp,repairable,2019,5.0
+performance,hp,repairable,2019,5.0
+power/battery,hp,repairable,2019,5.0
+system board,apple,repairable,2019,5.0
+unknown,acer,repairable,2020,5.0
+boot,apple,repairable,2019,5.0
+boot,acer,end of life,2019,5.0
+integrated screen,apple,repairable,2018,5.0
+integrated screen,microsoft,repairable,2019,5.0
+ports/slots/connectors,apple,repairable,2018,5.0
+performance,unknown,repairable,2018,5.0
+unknown,hp,fixed,2019,5.0
+ports/slots/connectors,dell,fixed,2019,5.0
+ports/slots/connectors,dell,fixed,2019,5.0
+power/battery,apple,fixed,2019,5.0
+internal damage,apple,end of life,2019,5.0
+unknown,acer,fixed,2019,5.0
+operating system,dell,repairable,2019,5.0
+configuration,samsung,fixed,2019,5.0
+unknown,hp,fixed,2020,5.0
+virus/malware,lenovo,fixed,2020,5.0
+unknown,apple,repairable,2017,5.0
+integrated pointing device,apple,fixed,2019,5.0
+unknown,unknown,fixed,2019,5.0
+operating system,hp,fixed,2019,5.0
+configuration,unknown,fixed,2019,5.0
+integrated screen,acer,end of life,2019,5.0
+power/battery,toshiba,repairable,2017,5.0
+integrated keyboard,medion,repairable,2019,5.0
+unknown,unknown,fixed,2018,5.0
+unknown,acer,fixed,2018,5.0
+unknown,medion,fixed,2018,5.0
+power/battery,lenovo,unknown,2019,5.0
+case/chassis,toshiba,fixed,2020,5.0
+configuration,acer,fixed,2018,5.0
+system board,lenovo,repairable,2020,5.0
+performance,toshiba,fixed,2019,5.0
+power/battery,fujitsu technology solutions,end of life,2018,5.0
+unknown,acer,fixed,2018,5.0
+performance,sony,fixed,2018,5.0
+operating system,unknown,repairable,2019,5.0
+other,acer,fixed,2018,5.0
+integrated screen,toshiba,end of life,2019,5.0
+unknown,dell,repairable,2018,5.0
+unknown,hp,fixed,2017,5.0
+configuration,acer,fixed,2018,5.0
+power/battery,toshiba,end of life,2018,5.0
+integrated screen,toshiba,fixed,2018,5.0
+integrated screen,toshiba,fixed,2019,5.0
+power/battery,acer,end of life,2018,5.0
+performance,asus,fixed,2017,5.0
+ports/slots/connectors,asus,fixed,2018,5.0
+power/battery,acer,fixed,2019,5.0
+boot,apple,repairable,2019,5.0
+integrated screen,lenovo,unknown,2018,5.0
+operating system,google asus,end of life,2019,5.0
+power/battery,acer,fixed,2020,5.0
+configuration,hp,fixed,2018,5.0
+configuration,dell,repairable,2017,5.0
+other,unknown,repairable,2019,5.0
+unknown,e-machines,fixed,2017,5.0
+configuration,unknown,repairable,2018,5.0
+internal storage,hp,fixed,2017,5.0
+power/battery,asus,repairable,2018,5.0
+configuration,apple,fixed,2019,5.0
+unknown,unknown,end of life,2019,5.0
+internal damage,hp,end of life,2019,5.0
+integrated screen,lenovo,unknown,2018,5.0
+virus/malware,hp,repairable,2018,5.0
+power/battery,lenovo,fixed,2019,5.0
+power/battery,unknown,end of life,2018,5.0
+unknown,goclever,fixed,2020,5.0
+operating system,acer,end of life,2019,5.0
+configuration,hp,repairable,2020,5.0
+ports/slots/connectors,lenovo,repairable,2018,5.0
+case/chassis,toshiba,fixed,2018,5.0
+configuration,lenovo,fixed,2020,5.0
+integrated optical drive,asus,fixed,2018,5.0
+operating system,hp,fixed,2019,5.0
+configuration,lenovo,fixed,2019,5.0
+unknown,compaq,fixed,2017,5.0
+boot,hp,repairable,2020,6.0
+unknown,acer,fixed,2018,6.0
+integrated optical drive,fujitsu,fixed,2020,6.0
+system board,asus,repairable,2019,6.0
+operating system,packard bell,fixed,2019,6.0
+performance,hp,fixed,2019,6.0
+unknown,apple,end of life,2017,6.0
+internal damage,toshiba,end of life,2019,6.0
+unknown,unknown,fixed,2019,6.0
+unknown,packard bell,repairable,2018,6.0
+unknown,apple,repairable,2017,6.0
+internal damage,apple,fixed,2019,6.0
+unknown,acer,fixed,2020,6.0
+internal storage,sony,repairable,2019,6.0
+unknown,dell,fixed,2018,6.0
+performance,dell,fixed,2019,6.0
+integrated pointing device,dell,repairable,2019,6.0
+power/battery,apple,fixed,2017,6.0
+operating system,acer,fixed,2019,6.0
+operating system,hewlett-packard,repairable,2020,6.0
+power/battery,hp,end of life,2020,6.0
+power/battery,samsung,repairable,2019,6.0
+configuration,toshiba,fixed,2020,6.0
+overheating,hp,repairable,2020,6.0
+internal storage,acer,fixed,2017,6.0
+boot,sony,end of life,2018,6.0
+internal storage,hp,fixed,2020,6.0
+unknown,apple,repairable,2017,6.0
+configuration,hp,fixed,2019,6.0
+integrated screen,hp,repairable,2020,6.0
+performance,packernell,fixed,2018,6.0
+integrated keyboard,lenovo,repairable,2019,6.0
+configuration,asus,fixed,2019,6.0
+ports/slots/connectors,asus,repairable,2019,6.0
+configuration,compaq,repairable,2019,6.0
+operating system,lenovo,fixed,2019,6.0
+operating system,acer,fixed,2019,6.0
+integrated screen,sony,repairable,2019,6.0
+integrated screen,lenovo,fixed,2018,6.0
+overheating,hp,repairable,2018,6.0
+system board,acer,fixed,2019,6.0
+integrated media component,apple,repairable,2018,6.0
+case/chassis,acer,fixed,2019,6.0
+integrated screen,hp,repairable,2019,6.0
+overheating,apple,fixed,2018,6.0
+power/battery,lehovo,fixed,2019,6.0
+ports/slots/connectors,asus,repairable,2018,6.0
+performance,apple,repairable,2018,6.0
+performance,hp,fixed,2018,6.0
+performance,samsung,repairable,2018,6.0
+overheating,toshiba,fixed,2019,6.0
+unknown,toshiba,repairable,2019,6.0
+integrated screen,toshiba,fixed,2019,6.0
+power/battery,lenovo,end of life,2018,6.0
+internal storage,ibm,fixed,2017,6.0
+configuration,acer,fixed,2019,6.0
+overheating,toshiba,fixed,2018,6.0
+configuration,acer,repairable,2018,6.0
+integrated keyboard,unknown,repairable,2019,6.0
+unknown,dell,fixed,2018,6.0
+unknown,asus,repairable,2020,6.0
+power/battery,apple,fixed,2018,6.0
+overheating,unknown,fixed,2019,6.0
+integrated keyboard,samsung,fixed,2018,6.0
+boot,unknown,repairable,2018,6.0
+multiple,hp,end of life,2019,6.0
+unknown,lenovo,repairable,2018,6.0
+internal damage,apple,fixed,2019,6.0
+unknown,dell,fixed,2020,6.0
+configuration,sony,fixed,2018,6.0
+power/battery,dell,fixed,2018,6.0
+internal storage,samsung,end of life,2017,6.0
+internal damage,apple,end of life,2018,6.0
+performance,hp,fixed,2018,6.0
+boot,hp,end of life,2019,7.0
+integrated screen,toshiba,fixed,2019,7.0
+performance,apple,repairable,2019,7.0
+operating system,acer,end of life,2019,7.0
+system board,hp,repairable,2019,7.0
+power/battery,asus,fixed,2017,7.0
+unknown,asus,fixed,2019,7.0
+operating system,toshiba,fixed,2019,7.0
+system board,asus,repairable,2017,7.0
+unknown,toshiba,end of life,2019,7.0
+unknown,lenovo,fixed,2019,7.0
+configuration,asus,end of life,2019,7.0
+operating system,asus,repairable,2019,7.0
+case/chassis,hp,fixed,2019,7.0
+operating system,asus,repairable,2019,7.0
+operating system,lenovo,fixed,2015,7.0
+unknown,toshiba,fixed,2019,7.0
+power/battery,toshiba,repairable,2019,7.0
+overheating,thinkpad,repairable,2019,7.0
+power/battery,packard bell,end of life,2020,7.0
+overheating,thinkpad,fixed,2019,7.0
+integrated keyboard,apple,repairable,2019,7.0
+performance,compaq,repairable,2019,7.0
+integrated keyboard,apple,fixed,2019,7.0
+performance,toshiba,repairable,2019,7.0
+unknown,toshiba,repairable,2019,7.0
+unknown,acer,fixed,2019,7.0
+unknown,compaq,repairable,2019,7.0
+performance,sony,repairable,2019,7.0
+integrated screen,hewlett packard,end of life,2019,7.0
+unknown,apple,repairable,2019,7.0
+performance,lenovo,fixed,2019,7.0
+ports/slots/connectors,samsung,fixed,2019,7.0
+unknown,hp compaq,fixed,2018,7.0
+boot,dell,fixed,2019,7.0
+integrated keyboard,apple,repairable,2018,7.0
+boot,apple,repairable,2019,7.0
+power/battery,compaq,repairable,2019,7.0
+unknown,asus,unknown,2018,7.0
+internal storage,sony,end of life,2019,7.0
+power/battery,unknown,fixed,2018,7.0
+boot,lenovo,fixed,2019,7.0
+unknown,thinkpad,end of life,2018,7.0
+unknown,hp,fixed,2017,7.0
+operating system,acer,repairable,2018,7.0
+power/battery,dell,repairable,2019,7.0
+performance,sony,fixed,2017,7.0
+power/battery,hp,repairable,2019,7.0
+configuration,asus,fixed,2020,7.0
+unknown,packard bell,fixed,2018,7.0
+operating system,samsung,fixed,2020,7.0
+unknown,samsung,fixed,2018,7.0
+operating system,toshiba,fixed,2017,7.0
+ports/slots/connectors,hp,repairable,2018,7.0
+boot,terras,end of life,2018,7.0
+power/battery,apple,end of life,2018,7.0
+power/battery,hp,repairable,2018,7.0
+operating system,acer,fixed,2017,7.0
+unknown,gompact,fixed,2018,7.0
+unknown,hp,fixed,2018,7.0
+configuration,hp,repairable,2020,7.0
+unknown,medion,repairable,2019,7.0
+unknown,asus,end of life,2017,7.0
+power/battery,hp,repairable,2020,7.0
+virus/malware,dell,repairable,2017,7.0
+ports/slots/connectors,asus,fixed,2019,7.0
+unknown,asus,fixed,2020,7.0
+overheating,apple,fixed,2020,7.0
+unknown,dell,fixed,2017,7.0
+unknown,toshiba,fixed,2020,7.0
+ports/slots/connectors,asus,repairable,2019,7.0
+overheating,apple,fixed,2020,7.0
+integrated screen,sony,repairable,2019,7.0
+unknown,apple,end of life,2020,7.0
+integrated pointing device,apple,fixed,2018,7.0
+multiple,lenovo,fixed,2020,7.0
+system board,apple,repairable,2019,7.0
+ports/slots/connectors,sony,repairable,2019,7.0
+power/battery,acer,fixed,2019,7.0
+unknown,packard bell,fixed,2017,7.0
+operating system,toshiba,fixed,2019,7.0
+configuration,sony,fixed,2019,7.0
+boot,asus,end of life,2018,8.0
+operating system,asus,fixed,2019,8.0
+overheating,hp,unknown,2018,8.0
+boot,apple,repairable,2019,8.0
+performance,samsung,fixed,2019,8.0
+performance,dell,fixed,2018,8.0
+operating system,toshiba,repairable,2019,8.0
+power/battery,dell,end of life,2018,8.0
+performance,samsung,fixed,2019,8.0
+operating system,compaq,end of life,2019,8.0
+integrated screen,toshiba,repairable,2018,8.0
+system board,hp,fixed,2019,8.0
+configuration,asus,fixed,2020,8.0
+operating system,apple,repairable,2020,8.0
+integrated screen,samsung,end of life,2020,8.0
+boot,sony,repairable,2020,8.0
+integrated optical drive,fujitsu technology solutions,repairable,2019,8.0
+configuration,asus,end of life,2019,8.0
+performance,sony,fixed,2018,8.0
+integrated screen,hp,repairable,2018,8.0
+unknown,apple,fixed,2020,8.0
+internal storage,apple,unknown,2018,8.0
+operating system,toshiba,repairable,2019,8.0
+integrated media component,thinkpad,fixed,2020,8.0
+operating system,compaq,fixed,2019,8.0
+integrated screen,samsung,fixed,2019,8.0
+overheating,sony,repairable,2020,8.0
+system board,gateway,fixed,2018,8.0
+power/battery,hp,repairable,2019,8.0
+performance,dell,fixed,2018,8.0
+overheating,lenovo,fixed,2019,8.0
+power/battery,packard bell,fixed,2019,8.0
+integrated screen,acer,repairable,2018,8.0
+overheating,fujitsu,fixed,2019,8.0
+case/chassis,dell,repairable,2019,8.0
+operating system,asus,repairable,2018,8.0
+power/battery,unknown,end of life,2018,8.0
+unknown,fujitsu,fixed,2019,8.0
+integrated keyboard,hp,repairable,2019,8.0
+performance,acer,repairable,2019,8.0
+unknown,hp,end of life,2019,8.0
+overheating,compaq,fixed,2018,8.0
+performance,packard bell,fixed,2018,8.0
+configuration,compaq,fixed,2018,8.0
+unknown,hp,repairable,2019,8.0
+operating system,lenovo,fixed,2018,8.0
+overheating,dell,fixed,2020,8.0
+operating system,hp,fixed,2019,8.0
+ports/slots/connectors,lenovo,fixed,2019,8.0
+integrated media component,hp,fixed,2019,8.0
+configuration,packard bell,fixed,2018,8.0
+internal storage,acer,fixed,2019,8.0
+configuration,acer,fixed,2018,8.0
+power/battery,apple,end of life,2019,8.0
+power/battery,apple,repairable,2018,8.0
+internal storage,dell,end of life,2019,8.0
+unknown,asus,repairable,2018,8.0
+power/battery,asus,repairable,2019,8.0
+unknown,packard bell,fixed,2019,8.0
+internal damage,toshiba,repairable,2020,8.0
+unknown,packard bell,fixed,2017,8.0
+boot,hp,fixed,2019,8.0
+unknown,acer,repairable,2018,8.0
+performance,asus,repairable,2019,8.0
+power/battery,apple,repairable,2019,8.0
+performance,asos,fixed,2019,8.0
+operating system,lenovo,repairable,2018,8.0
+performance,apple,repairable,2019,8.0
+integrated keyboard,lenovo,fixed,2019,9.0
+integrated screen,acer,end of life,2017,9.0
+case/chassis,apple,repairable,2019,9.0
+unknown,medion,end of life,2019,9.0
+unknown,hp,end of life,2019,9.0
+operating system,toshiba,fixed,2019,9.0
+power/battery,hp,repairable,2019,9.0
+operating system,samsung,fixed,2019,9.0
+operating system,apple,fixed,2017,9.0
+performance,toshiba,repairable,2019,9.0
+power/battery,hp,end of life,2020,9.0
+overheating,apple,fixed,2018,9.0
+power/battery,hp,repairable,2019,9.0
+performance,acer,fixed,2018,9.0
+boot,acer,end of life,2019,9.0
+power/battery,apple,repairable,2019,9.0
+configuration,asus,repairable,2019,9.0
+internal storage,apple,fixed,2019,9.0
+case/chassis,toshiba,repairable,2019,9.0
+ports/slots/connectors,apple,repairable,2019,9.0
+performance,acer,fixed,2019,9.0
+unknown,dell,fixed,2019,9.0
+operating system,acer,fixed,2018,9.0
+boot,toshiba,fixed,2019,9.0
+power/battery,asus,fixed,2019,9.0
+operating system,samsung,fixed,2019,9.0
+integrated screen,hp,repairable,2019,9.0
+ports/slots/connectors,asus,fixed,2019,9.0
+configuration,hp,unknown,2019,9.0
+operating system,sony,repairable,2019,10.0
+operating system,sony,fixed,2019,10.0
+overheating,acer,fixed,2019,10.0
+power/battery,siemens,end of life,2017,10.0
+other,vaio,fixed,2019,10.0
+ports/slots/connectors,lenovo,fixed,2019,10.0
+power/battery,acer,end of life,2019,10.0
+configuration,dell,fixed,2019,10.0
+power/battery,toshiba,repairable,2018,10.0
+unknown,compaq,repairable,2017,10.0
+power/battery,microsoft,repairable,2020,10.0
+operating system,packard bell,fixed,2020,10.0
+boot,acer,fixed,2018,10.0
+ports/slots/connectors,unknown,fixed,2018,10.0
+integrated keyboard,hp,repairable,2019,10.0
+integrated screen,dell,fixed,2018,10.0
+integrated screen,toshiba,end of life,2019,10.0
+integrated keyboard,lenovo,repairable,2019,10.0
+power/battery,asus,repairable,2017,10.0
+unknown,lg,fixed,2018,10.0
+system board,packard bell,fixed,2020,10.0
+power/battery,packard bell,end of life,2019,10.0
+overheating,asus,fixed,2020,10.0
+integrated screen,acer,repairable,2018,10.0
+other,hp,fixed,2017,10.0
+other,unknown,fixed,2019,10.0
+boot,dell,fixed,2019,10.0
+configuration,microsoft,repairable,2019,10.0
+configuration,asus,repairable,2018,10.0
+boot,dell,end of life,2019,10.0
+unknown,acer,end of life,2017,10.0
+overheating,medion akoya,end of life,2019,10.0
+operating system,sony,fixed,2018,10.0
+performance,packard bell,fixed,2020,10.0
+internal storage,dell,fixed,2020,10.0
+internal damage,hp,fixed,2019,10.0
+integrated media component,apple,fixed,2019,10.0
+overheating,apple,fixed,2019,10.0
+power/battery,apple,end of life,2019,10.0
+internal storage,toshiba,fixed,2019,10.0
+power/battery,acer,fixed,2019,10.0
+configuration,compaq,fixed,2019,10.0
+operating system,toshiba,fixed,2020,10.0
+power/battery,samsung,repairable,2019,10.0
+unknown,toshiba,fixed,2019,10.0
+integrated keyboard,lenovo,end of life,2019,10.0
+operating system,hp,fixed,2020,10.0
+unknown,apple,repairable,2019,10.0
+power/battery,hp,repairable,2020,10.0
+boot,toshiba,end of life,2019,10.0
+unknown,unknown,repairable,2019,10.0
+unknown,sony,end of life,2020,10.0
+unknown,hp,fixed,2017,10.0
+performance,acer,fixed,2019,10.0
+multiple,hp,repairable,2020,10.0
+unknown,dell,repairable,2020,10.0
+unknown,acer,end of life,2017,10.0
+operating system,toshiba,repairable,2019,10.0
+power/battery,unknown,fixed,2019,10.0
+power/battery,toshiba,end of life,2019,10.0
+unknown,dell,repairable,2020,10.0
+other,hp,repairable,2019,10.0
+power/battery,toshiba,fixed,2020,10.0
+operating system,hp,fixed,2020,10.0
+boot,hp,fixed,2020,10.0
+operating system,hp,fixed,2019,10.0
+configuration,toshiba,fixed,2020,10.0
+unknown,asus,fixed,2019,10.0
+boot,asus,repairable,2020,10.0
+unknown,dell,fixed,2019,10.0
+overheating,unknown,fixed,2019,11.0
+system board,dell,end of life,2018,11.0
+integrated media component,apple,repairable,2019,11.0
+integrated screen,samsung,fixed,2020,11.0
+operating system,acer,repairable,2017,11.0
+internal damage,hp,end of life,2017,11.0
+unknown,apple,end of life,2019,11.0
+multiple,dell,fixed,2020,11.0
+internal damage,ibm,unknown,2019,11.0
+unknown,fujitsu technology solutions,repairable,2017,11.0
+configuration,compaq,repairable,2018,11.0
+unknown,dec,end of life,2018,11.0
+operating system,lenovo,repairable,2019,11.0
+unknown,acer,fixed,2018,11.0
+operating system,dell,fixed,2019,11.0
+case/chassis,lenovo,end of life,2018,11.0
+case/chassis,samsung,repairable,2019,11.0
+unknown,acer,repairable,2017,12.0
+boot,fujitsu,fixed,2020,12.0
+unknown,unknown,repairable,2017,12.0
+integrated keyboard,toshiba,fixed,2019,12.0
+unknown,alpha,repairable,2017,12.0
+case/chassis,lenovo,fixed,2020,12.0
+unknown,packard bell,fixed,2017,12.0
+power/battery,hp,repairable,2018,12.0
+internal storage,hp,fixed,2019,12.0
+power/battery,sony,end of life,2019,12.0
+performance,sharp,fixed,2016,12.0
+virus/malware,hp,repairable,2020,12.0
+unknown,fujitsu technology solutions,fixed,2018,12.0
+integrated screen,acer,repairable,2017,12.0
+unknown,dell,end of life,2020,12.0
+system board,acer,repairable,2018,12.0
+performance,lenovo,fixed,2019,12.0
+overheating,hp,fixed,2020,12.0
+virus/malware,dell,fixed,2019,13.0
+performance,medion akoya,repairable,2018,13.0
+configuration,medion,end of life,2019,13.0
+multiple,toshiba,fixed,2020,13.0
+unknown,dell,repairable,2019,13.0
+unknown,medion,end of life,2018,13.0
+integrated screen,e-machines,repairable,2018,13.0
+unknown,hp,fixed,2018,14.0
+unknown,toshiba,fixed,2018,14.0
+integrated keyboard,hp compaq,repairable,2018,14.0
+operating system,lenovo,fixed,2020,15.0
+performance,dell,repairable,2019,15.0
+unknown,acer,fixed,2020,15.0
+power/battery,sony,repairable,2017,15.0
+performance,lenovo,fixed,2017,15.0
+performance,dell,repairable,2019,15.0
+internal storage,unknown,repairable,2020,15.0
+internal storage,toshiba,repairable,2019,15.0
+overheating,acer,fixed,2020,15.0
+boot,apple,repairable,2019,15.0
+other,acer,fixed,2019,16.0
+integrated screen,compaq,end of life,2019,16.0
+ports/slots/connectors,fujitsu,repairable,2019,16.0
+unknown,compaq,repairable,2017,16.0
+operating system,acer,end of life,2019,16.0
+power/battery,apple,repairable,2020,16.0
+configuration,medion,fixed,2018,18.0
+unknown,medion,fixed,2018,18.0
+unknown,unknown,end of life,2018,18.0
+unknown,unknown,fixed,2018,18.0
+internal storage,toshiba,fixed,2019,19.0
+integrated screen,lenovo,repairable,2019,19.0
+configuration,acer,repairable,2019,19.0
+unknown,cybermaxx,repairable,2017,19.0
+integrated screen,toshiba,repairable,2019,19.0
+configuration,ibm,end of life,2019,19.0
+unknown,hp,fixed,2020,20.0
+power/battery,fujitsu technology solutions,repairable,2019,29.0
+system board,samsung,unknown,2019,
+configuration,unknown,unknown,2019,
+power/battery,macally,fixed,2019,
+configuration,unknown,fixed,2019,
+configuration,compaq,unknown,2019,
+case/chassis,lenovo,fixed,2019,
+configuration,hp,fixed,2019,
+unknown,unknown,unknown,2019,
+unknown,unknown,fixed,2018,
+unknown,unknown,unknown,2018,
+unknown,unknown,repairable,2018,
+unknown,hp,unknown,2019,
+power/battery,asus,repairable,2019,
+operating system,toshiba,fixed,2019,
+ports/slots/connectors,lenovo,fixed,2019,
+overheating,asus,fixed,2018,
+internal storage,acer,unknown,2019,
+system board,hp,unknown,2019,
+configuration,acer,fixed,2018,
+overheating,hp,fixed,2019,
+power/battery,samsung,fixed,2019,
+integrated screen,acer,repairable,2019,
+boot,hp,unknown,2019,
+operating system,asus,unknown,2019,
+power/battery,lenovo,unknown,2017,
+integrated screen,unknown,fixed,2017,
+integrated screen,samsung,fixed,2017,
+integrated screen,acer,fixed,2019,
+integrated optical drive,acer,repairable,2019,
+configuration,acer,fixed,2019,
+power/battery,hp,repairable,2018,
+configuration,dell,fixed,2018,
+integrated keyboard,unknown,fixed,2017,
+integrated optical drive,unknown,fixed,2017,
+system board,unknown,repairable,2017,
+integrated keyboard,unknown,repairable,2017,
+operating system,unknown,unknown,2017,
+integrated screen,lenovo,unknown,2018,
+configuration,dell,unknown,2018,
+performance,unknown,fixed,2016,
+unknown,samsung,unknown,2018,
+case/chassis,lenovo,repairable,2018,
+ports/slots/connectors,acer,unknown,2016,
+case/chassis,lenovo,fixed,2018,
+performance,dell,unknown,2018,
+internal storage,samsung,fixed,2018,
+unknown,unknown,unknown,2015,
+integrated screen,medion,repairable,2018,
+performance,ibm,unknown,2017,
+internal storage,asus,fixed,2018,
+integrated media component,asus,unknown,2018,
+overheating,hp,fixed,2017,
+other,unknown,fixed,2017,
+performance,unknown,fixed,2017,
+performance,unknown,fixed,2017,
+case/chassis,unknown,fixed,2017,
+configuration,unknown,fixed,2017,
+ports/slots/connectors,unknown,fixed,2017,
+ports/slots/connectors,unknown,unknown,2016,
+operating system,unknown,repairable,2016,
+ports/slots/connectors,unknown,repairable,2016,
+operating system,unknown,repairable,2016,
+internal damage,unknown,repairable,2016,
+ports/slots/connectors,unknown,fixed,2016,
+unknown,unknown,unknown,2016,
+configuration,unknown,fixed,2016,
+unknown,unknown,unknown,2016,
+integrated screen,unknown,fixed,2016,
+integrated keyboard,unknown,repairable,2016,
+ports/slots/connectors,unknown,fixed,2016,
+configuration,unknown,unknown,2016,
+integrated keyboard,unknown,fixed,2016,
+ports/slots/connectors,unknown,fixed,2015,
+ports/slots/connectors,unknown,repairable,2015,
+unknown,unknown,unknown,2015,
+configuration,acer,unknown,2018,
+other,unknown,fixed,2015,
+integrated screen,unknown,fixed,2015,
+system board,unknown,repairable,2015,
+ports/slots/connectors,unknown,unknown,2014,
+virus/malware,unknown,fixed,2014,
+unknown,unknown,fixed,2014,
+overheating,unknown,repairable,2012,
+configuration,acer,fixed,2018,
+integrated keyboard,asus,fixed,2018,
+other,medion,fixed,2018,
+other,medion,fixed,2018,
+internal storage,unknown,fixed,2018,
+system board,asus,fixed,2018,
+system board,ibm,fixed,2018,
+operating system,dell,repairable,2018,
+ports/slots/connectors,lenovo,fixed,2018,
+ports/slots/connectors,asus,fixed,2018,
+virus/malware,ibm,fixed,2018,
+overheating,toshiba,fixed,2018,
+configuration,asus,fixed,2019,
+configuration,acer,fixed,2018,
+configuration,unknown,repairable,2018,
+integrated screen,hp,unknown,2018,
+unknown,toshiba,unknown,2018,
+configuration,acer,fixed,2018,
+configuration,toshiba,fixed,2018,
+integrated optical drive,unknown,fixed,2018,
+operating system,msi,repairable,2018,
+boot,acer,unknown,2019,
+integrated screen,acer,fixed,2019,
+case/chassis,samsung,unknown,2019,
+integrated keyboard,asus,repairable,2018,
+internal storage,dell,repairable,2019,
+system board,apple,fixed,2019,
+ports/slots/connectors,samsung,unknown,2019,
+case/chassis,asus,fixed,2019,
+case/chassis,asus,fixed,2019,
+integrated screen,asus,repairable,2019,
+integrated screen,lenovo,unknown,2019,
+case/chassis,lenovo,repairable,2018,
+integrated screen,asus,unknown,2019,
+integrated screen,asus,fixed,2019,
+unknown,toshiba,fixed,2018,
+case/chassis,asus,fixed,2019,
+unknown,acer,fixed,2019,
+system board,samsung,repairable,2019,
+unknown,medion,repairable,2019,
+integrated keyboard,lenovo,repairable,2019,
+configuration,asus,unknown,2019,
+case/chassis,lenovo,unknown,2018,
+configuration,lenovo,unknown,2019,
+system board,lenovo,unknown,2019,
+case/chassis,hp,unknown,2019,
+configuration,toshiba,fixed,2019,
+integrated keyboard,lenovo,fixed,2019,
+integrated screen,unknown,unknown,2019,
+internal storage,fujitsu,repairable,2018,
+unknown,lenovo,repairable,2019,
+unknown,unknown,unknown,2019,
+integrated keyboard,unknown,fixed,2019,
+case/chassis,unknown,fixed,2019,
+unknown,asus,repairable,2019,
+integrated keyboard,apple,fixed,2019,
+integrated keyboard,unknown,fixed,2019,
+case/chassis,hp,fixed,2019,
+system board,acer,repairable,2019,
+internal damage,lenovo,repairable,2019,
+other,lenovo,fixed,2019,
+case/chassis,toshiba,repairable,2019,
+configuration,asus,repairable,2019,
+configuration,asus,repairable,2019,
+unknown,unknown,unknown,2019,
+overheating,hp,repairable,2019,
+case/chassis,unknown,fixed,2019,
+unknown,hp,unknown,2019,
+operating system,toshiba,fixed,2019,
+unknown,samsung,unknown,2020,
+performance,sony,unknown,2019,
+configuration,unknown,fixed,2019,
+performance,fujitsu,unknown,2019,
+unknown,hp,repairable,2019,
+configuration,unknown,fixed,2019,
+power/battery,unknown,unknown,2019,
+internal storage,unknown,repairable,2019,
+internal damage,apple,repairable,2019,
+case/chassis,unknown,unknown,2018,
+configuration,unknown,fixed,2019,
+other,unknown,fixed,2019,
+unknown,apple,fixed,2019,
+internal storage,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+ports/slots/connectors,unknown,fixed,2019,
+internal storage,fujitsu,repairable,2019,
+power/battery,hp,fixed,2019,
+configuration,unknown,repairable,2019,
+configuration,siemens,repairable,2019,
+overheating,toshiba,fixed,2019,
+performance,packard bell,repairable,2019,
+performance,unknown,unknown,2019,
+internal storage,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+system board,unknown,repairable,2019,
+unknown,unknown,fixed,2018,
+unknown,medion,unknown,2019,
+unknown,apple,unknown,2019,
+integrated screen,asus,fixed,2019,
+integrated screen,unknown,unknown,2019,
+internal storage,unknown,unknown,2019,
+internal storage,unknown,unknown,2019,
+integrated screen,unknown,unknown,2018,
+operating system,unknown,repairable,2019,
+system board,unknown,unknown,2019,
+configuration,unknown,unknown,2019,
+overheating,unknown,fixed,2018,
+unknown,unknown,unknown,2019,
+unknown,unknown,fixed,2018,
+case/chassis,unknown,unknown,2020,
+system board,unknown,unknown,2020,
+internal storage,unknown,fixed,2020,
+integrated screen,unknown,unknown,2020,
+integrated optical drive,acer,unknown,2020,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,repairable,2018,
+power/battery,unknown,end of life,2020,
+internal storage,dell,repairable,2020,
+case/chassis,lenovo,fixed,2020,
+power/battery,lenovo,fixed,2020,
+other,unknown,fixed,2018,
+internal storage,ibm,unknown,2020,
+other,apple,fixed,2020,
+ports/slots/connectors,medion,unknown,2018,
+unknown,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+ports/slots/connectors,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+internal storage,samsung,fixed,2019,
+system board,medion,fixed,2019,
+multiple,unknown,fixed,2019,
+case/chassis,lenovo,fixed,2019,
+ports/slots/connectors,unknown,unknown,2019,
+other,acer,fixed,2019,
+operating system,compaq,unknown,2019,
+integrated screen,unknown,unknown,2019,
+configuration,ibm thinkpad,repairable,2018,
+unknown,toshiba,fixed,2018,
+unknown,apple,unknown,2018,
+unknown,toshiba,repairable,2018,
+unknown,lenovo,fixed,2018,
+unknown,dell,fixed,2018,
+unknown,hp,end of life,2018,
+unknown,apple,fixed,2018,
+unknown,dell,repairable,2019,
+unknown,toshiba,fixed,2019,
+unknown,toshiba,fixed,2019,
+unknown,dell,fixed,2019,
+unknown,lenovo,fixed,2019,
+unknown,dell,unknown,2019,
+unknown,dell,unknown,2020,
+unknown,macbook pro,repairable,2018,
+unknown,dell,fixed,2018,
+configuration,chrome,end of life,2018,
+power/battery,hp,end of life,2018,
+power/battery,sony,end of life,2018,
+overheating,acer,fixed,2018,
+performance,hp,repairable,2018,
+integrated keyboard,lenovo,end of life,2018,
+boot,compaq,end of life,2018,
+power/battery,dell,end of life,2018,
+power/battery,packard bell,end of life,2018,
+configuration,acer,fixed,2018,
+power/battery,acer,end of life,2018,
+unknown,unknown,fixed,2018,
+unknown,hp,repairable,2018,
+operating system,compaq,fixed,2018,
+unknown,toshiba,repairable,2018,
+configuration,hp,repairable,2018,
+internal damage,apple,end of life,2018,
+operating system,hp,fixed,2018,
+configuration,acer,fixed,2018,
+other,acer,fixed,2018,
+unknown,lg,end of life,2018,
+power/battery,samsung,repairable,2018,
+integrated keyboard,acer,end of life,2018,
+unknown,hp,fixed,2018,
+performance,unknown,fixed,2018,
+operating system,hp,repairable,2018,
+performance,apple,repairable,2018,
+unknown,unknown,end of life,2018,
+integrated media component,unknown,end of life,2018,
+configuration,unknown,fixed,2018,
+configuration,unknown,fixed,2018,
+boot,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+performance,hp,fixed,2018,
+boot,asus,fixed,2018,
+ports/slots/connectors,acer,fixed,2018,
+integrated pointing device,asus,repairable,2018,
+unknown,unknown,fixed,2017,
+performance,dell,repairable,2018,
+unknown,samsung,repairable,2018,
+configuration,acer,repairable,2018,
+operating system,hp,fixed,2018,
+boot,unknown,repairable,2019,
+configuration,hp,fixed,2019,
+boot,asus,end of life,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,repairable,2017,
+case/chassis,hp,fixed,2019,
+configuration,hp,fixed,2019,
+overheating,hp,repairable,2019,
+configuration,hp,fixed,2019,
+integrated media component,unknown,fixed,2019,
+integrated optical drive,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+configuration,asus,end of life,2019,
+unknown,apple,repairable,2019,
+configuration,hp,fixed,2019,
+boot,dell,repairable,2019,
+performance,lenovo,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,lenovo,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,dell,repairable,2019,
+configuration,acer,fixed,2019,
+performance,unknown,end of life,2019,
+boot,toshiba,fixed,2019,
+integrated optical drive,acer,fixed,2019,
+integrated media component,hp,fixed,2019,
+performance,dell,fixed,2019,
+boot,asus,fixed,2019,
+operating system,dell,fixed,2019,
+unknown,lenovo,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,peaq,fixed,2017,
+configuration,asus,fixed,2019,
+other,apple,repairable,2019,
+power/battery,shark,fixed,2019,
+performance,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+performance,unknown,end of life,2019,
+configuration,acer,fixed,2019,
+power/battery,hp,repairable,2019,
+configuration,acer,fixed,2019,
+performance,acer,fixed,2019,
+other,apple,fixed,2019,
+power/battery,acer,fixed,2019,
+configuration,acer,fixed,2019,
+configuration,acer,repairable,2019,
+configuration,hp,repairable,2019,
+unknown,unknown,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,apple,end of life,2019,
+boot,asus,fixed,2019,
+configuration,samsung,fixed,2019,
+integrated screen,aser,end of life,2019,
+unknown,lenovo,fixed,2019,
+unknown,samsung,repairable,2019,
+unknown,acer,fixed,2019,
+integrated pointing device,acer,repairable,2019,
+overheating,hp,repairable,2019,
+power/battery,asus,repairable,2019,
+unknown,asus,repairable,2019,
+unknown,acer,fixed,2017,
+power/battery,lenovo,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,dell,repairable,2019,
+integrated keyboard,toshiba,repairable,2019,
+configuration,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+unknown,apple,fixed,2019,
+unknown,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+virus/malware,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+overheating,unknown,repairable,2017,
+configuration,apple,fixed,2019,
+boot,dell,end of life,2019,
+power/battery,samsung,fixed,2019,
+unknown,hp,fixed,2017,
+configuration,lenco,fixed,2019,
+integrated screen,hp,fixed,2019,
+multiple,dell,end of life,2019,
+power/battery,toshiba,repairable,2019,
+unknown,acer,repairable,2019,
+unknown,dell,repairable,2019,
+integrated screen,acer,repairable,2019,
+configuration,unknown,fixed,2019,
+unknown,unknown,repairable,2019,
+operating system,toshiba,repairable,2019,
+unknown,medion,fixed,2019,
+performance,asus,repairable,2019,
+performance,asus,repairable,2019,
+performance,asus,repairable,2019,
+unknown,unknown,end of life,2019,
+unknown,hp,end of life,2019,
+unknown,hp compaq,end of life,2019,
+unknown,hp,fixed,2019,
+power/battery,asus,repairable,2019,
+unknown,hp,fixed,2019,
+unknown,dell,end of life,2019,
+unknown,unknown,end of life,2019,
+operating system,hp,repairable,2019,
+ports/slots/connectors,asus,repairable,2019,
+performance,unknown,fixed,2019,
+unknown,unknown,repairable,2019,
+boot,lenovo,fixed,2019,
+unknown,hp,fixed,2017,
+integrated screen,hp,end of life,2019,
+power/battery,apple,end of life,2019,
+boot,apple,end of life,2019,
+unknown,collever,fixed,2017,
+performance,toshiba,repairable,2019,
+integrated media component,dell,repairable,2019,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2019,
+configuration,sony,repairable,2019,
+case/chassis,msi cx620,repairable,2019,
+unknown,acer,end of life,2019,
+internal storage,hp,repairable,2019,
+system board,dell,fixed,2019,
+unknown,toshiba,repairable,2019,
+power/battery,asus,fixed,2019,
+performance,toshiba,repairable,2019,
+unknown,sony,end of life,2019,
+unknown,hp,fixed,2019,
+integrated screen,hp,repairable,2019,
+performance,hp,fixed,2019,
+performance,hp,fixed,2019,
+performance,toshiba,repairable,2019,
+internal storage,hp,end of life,2019,
+integrated keyboard,dell,fixed,2019,
+unknown,acer,repairable,2017,
+boot,archos,repairable,2019,
+boot,lenovo,fixed,2019,
+configuration,hp,fixed,2019,
+integrated media component,acer,fixed,2019,
+configuration,dell,fixed,2019,
+power/battery,unknown,repairable,2019,
+unknown,acer,fixed,2019,
+integrated optical drive,apple,fixed,2019,
+unknown,fujitsu technology solutions,repairable,2019,
+integrated screen,siemens,fixed,2019,
+integrated screen,packard bell,end of life,2019,
+unknown,trust,fixed,2020,
+unknown,lenovo,fixed,2020,
+performance,asus,fixed,2020,
+integrated keyboard,asus,end of life,2020,
+power/battery,unknown,fixed,2020,
+operating system,acer,end of life,2020,
+configuration,toshiba,fixed,2017,
+configuration,lenovo,repairable,2020,
+operating system,unknown,fixed,2020,
+unknown,medion,repairable,2017,
+configuration,hp,end of life,2020,
+operating system,acer,fixed,2020,
+unknown,acer,end of life,2020,
+boot,apple,repairable,2020,
+configuration,dell,repairable,2020,
+unknown,dell,end of life,2017,
+configuration,dell,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2020,
+unknown,hp,repairable,2020,
+power/battery,unknown,end of life,2020,
+operating system,hp,repairable,2017,
+unknown,hp,fixed,2017,
+unknown,hp,fixed,2020,
+configuration,hp,fixed,2020,
+unknown,home,fixed,2020,
+unknown,home,repairable,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2017,
+unknown,asus,fixed,2020,
+integrated keyboard,jumper,repairable,2020,
+integrated screen,acer,repairable,2020,
+power/battery,hp,repairable,2020,
+unknown,fujitsu technology solutions,repairable,2020,
+unknown,toshiba,fixed,2020,
+unknown,dell,end of life,2020,
+unknown,hp,fixed,2020,
+unknown,asus,repairable,2020,
+unknown,hp,fixed,2020,
+ports/slots/connectors,asus,end of life,2020,
+unknown,medion,end of life,2020,
+power/battery,hp,repairable,2020,
+power/battery,acer,end of life,2020,
+performance,msi,end of life,2017,
+internal damage,asus,end of life,2017,
+performance,toshiba,end of life,2017,
+power/battery,acer,end of life,2017,
+unknown,gemino,end of life,2017,
+unknown,apple,end of life,2017,
+unknown,asus,fixed,2017,
+performance,hp compaq,end of life,2017,
+configuration,acer,fixed,2017,
+power/battery,asus,fixed,2020,
+operating system,compaq,fixed,2017,
+operating system,acer,fixed,2017,
+unknown,asus,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,acer,end of life,2017,
+power/battery,lenovo,repairable,2017,
+integrated keyboard,unknown,repairable,2017,
+unknown,hp,repairable,2018,
+internal storage,hp,repairable,2017,
+boot,hp,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,hp,repairable,2018,
+performance,lenovo,end of life,2018,
+unknown,toshiba,repairable,2018,
+unknown,dell,repairable,2018,
+unknown,toshiba,fixed,2018,
+unknown,dell,fixed,2018,
+performance,acer,fixed,2018,
+unknown,samsung,repairable,2018,
+system board,unknown,end of life,2018,
+unknown,unknown,repairable,2018,
+unknown,dell,repairable,2018,
+unknown,mpman,end of life,2018,
+unknown,unknown,repairable,2017,
+performance,unknown,fixed,2018,
+unknown,hp,fixed,2018,
+unknown,acer,fixed,2018,
+unknown,packard bell,end of life,2018,
+unknown,hp,fixed,2018,
+configuration,hp,fixed,2017,
+unknown,sony,fixed,2018,
+performance,hp,fixed,2018,
+operating system,sony,end of life,2018,
+integrated screen,acer,repairable,2018,
+unknown,sony,repairable,2018,
+internal damage,fujitsu technology solutions,repairable,2018,
+unknown,fujitsu technology solutions,end of life,2017,
+unknown,toshiba,fixed,2017,
+multiple,apple,fixed,2018,
+configuration,unknown,fixed,2018,
+power/battery,unknown,repairable,2018,
+operating system,packard bell,end of life,2017,
+integrated screen,unknown,repairable,2018,
+unknown,acer,repairable,2018,
+integrated pointing device,msi,fixed,2018,
+configuration,msi,fixed,2018,
+unknown,hp,fixed,2018,
+unknown,chuwi,fixed,2018,
+power/battery,acer,end of life,2018,
+unknown,unknown,fixed,2017,
+virus/malware,fujitsu technology solutions,fixed,2018,
+unknown,toshiba,fixed,2017,
+unknown,asus,repairable,2017,
+unknown,acer,end of life,2018,
+unknown,fujitsu technology solutions,repairable,2018,
+unknown,unknown,fixed,2018,
+integrated screen,asus,end of life,2018,
+unknown,dell,end of life,2018,
+operating system,chuwi,fixed,2018,
+power/battery,unknown,end of life,2018,
+configuration,unknown,repairable,2018,
+integrated screen,lenovo,fixed,2018,
+configuration,unknown,fixed,2018,
+configuration,apple,fixed,2018,
+power/battery,unknown,end of life,2018,
+unknown,hp,repairable,2018,
+operating system,unknown,end of life,2018,
+unknown,unknown,unknown,2019,
+unknown,unknown,unknown,2019,
+unknown,unknown,unknown,2019,
+internal storage,unknown,fixed,2017,
+power/battery,unknown,fixed,2019,
+internal damage,asus,repairable,2019,
+configuration,unknown,repairable,2019,
+unknown,vega,unknown,2019,
+power/battery,dell,repairable,2019,
+internal damage,hp,end of life,2019,
+unknown,unknown,end of life,2019,
+unknown,lenovo,end of life,2019,
+boot,acer,fixed,2019,
+overheating,unknown,repairable,2019,
+system board,samsung,end of life,2019,
+unknown,dell,repairable,2019,
+unknown,asus,fixed,2019,
+performance,unknown,end of life,2017,
+internal damage,unknown,fixed,2017,
+power/battery,unknown,fixed,2017,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+ports/slots/connectors,unknown,end of life,2019,
+configuration,unknown,repairable,2019,
+integrated screen,dell,repairable,2019,
+integrated keyboard,toshiba,fixed,2019,
+power/battery,dell,repairable,2019,
+system board,samsung,repairable,2019,
+unknown,unknown,repairable,2019,
+power/battery,unknown,repairable,2019,
+integrated screen,unknown,unknown,2019,
+boot,sony,fixed,2019,
+overheating,unknown,repairable,2019,
+power/battery,lenovo,fixed,2019,
+power/battery,unknown,unknown,2019,
+integrated keyboard,unknown,repairable,2019,
+integrated keyboard,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+ports/slots/connectors,toshiba,fixed,2019,
+integrated screen,hp,fixed,2019,
+integrated screen,asus,repairable,2019,
+ports/slots/connectors,hp,repairable,2019,
+unknown,unknown,unknown,2019,
+system board,unknown,fixed,2017,
+internal storage,unknown,repairable,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,repairable,2017,
+boot,unknown,end of life,2019,
+performance,hp,fixed,2019,
+unknown,unknown,fixed,2019,
+integrated screen,unknown,fixed,2019,
+configuration,acer,fixed,2019,
+unknown,unknown,repairable,2019,
+power/battery,unknown,fixed,2019,
+internal damage,unknown,repairable,2017,
+ports/slots/connectors,unknown,repairable,2017,
+case/chassis,unknown,fixed,2019,
+internal storage,dell,end of life,2019,
+power/battery,unknown,end of life,2019,
+configuration,unknown,fixed,2019,
+configuration,asus,unknown,2019,
+performance,unknown,fixed,2018,
+unknown,unknown,repairable,2019,
+integrated keyboard,kitkat,repairable,2019,
+internal damage,dell,fixed,2019,
+internal damage,unknown,fixed,2019,
+integrated keyboard,unknown,fixed,2019,
+power/battery,unknown,repairable,2019,
+internal damage,hp,unknown,2019,
+integrated pointing device,unknown,repairable,2020,
+integrated keyboard,unknown,repairable,2020,
+multiple,unknown,fixed,2020,
+unknown,unknown,end of life,2020,
+integrated keyboard,lenovo,end of life,2020,
+configuration,unknown,unknown,2020,
+performance,unknown,unknown,2020,
+case/chassis,unknown,fixed,2020,
+integrated keyboard,unknown,repairable,2020,
+virus/malware,hp,repairable,2020,
+power/battery,toshiba,fixed,2020,
+integrated screen,hp,fixed,2020,
+integrated screen,asus,end of life,2020,
+ports/slots/connectors,hp,repairable,2020,
+configuration,unknown,unknown,2020,
+configuration,unknown,fixed,2020,
+internal damage,unknown,repairable,2018,
+ports/slots/connectors,hp,fixed,2020,
+boot,dell,repairable,2020,
+integrated screen,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+power/battery,unknown,fixed,2018,
+operating system,unknown,fixed,2018,
+power/battery,unknown,fixed,2018,
+integrated screen,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+integrated screen,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+configuration,unknown,fixed,2018,
+performance,unknown,repairable,2017,
+boot,unknown,repairable,2018,
+configuration,unknown,fixed,2018,
+integrated screen,unknown,repairable,2018,
+ports/slots/connectors,unknown,fixed,2018,
+internal storage,unknown,unknown,2018,
+boot,unknown,repairable,2018,
+performance,unknown,end of life,2018,
+integrated screen,unknown,fixed,2018,
+configuration,unknown,repairable,2018,
+power/battery,unknown,fixed,2018,
+power/battery,unknown,repairable,2018,
+power/battery,unknown,repairable,2018,
+overheating,unknown,fixed,2018,
+integrated media component,unknown,fixed,2018,
+integrated screen,unknown,repairable,2017,
+integrated keyboard,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+ports/slots/connectors,unknown,repairable,2018,
+internal damage,dell,fixed,2013,
+unknown,unknown,end of life,2018,
+configuration,hp,fixed,2014,
+unknown,unknown,end of life,2018,
+boot,unknown,repairable,2018,
+integrated screen,unknown,fixed,2018,
+power/battery,unknown,repairable,2018,
+overheating,unknown,fixed,2018,
+boot,unknown,end of life,2018,
+integrated keyboard,unknown,fixed,2018,
+case/chassis,unknown,end of life,2018,
+configuration,unknown,repairable,2018,
+integrated screen,unknown,fixed,2018,
+internal damage,unknown,fixed,2018,
+overheating,unknown,fixed,2018,
+integrated screen,unknown,repairable,2018,
+performance,unknown,fixed,2018,
+overheating,unknown,repairable,2018,
+integrated pointing device,unknown,end of life,2018,
+integrated screen,unknown,repairable,2018,
+integrated screen,unknown,repairable,2018,
+configuration,unknown,fixed,2018,
+configuration,apple,repairable,2018,
+ports/slots/connectors,unknown,repairable,2018,
+configuration,apple,fixed,2018,
+unknown,unknown,end of life,2018,
+boot,dell,fixed,2014,
+ports/slots/connectors,compaq,repairable,2014,
+ports/slots/connectors,acer,fixed,2013,
+overheating,toshiba,fixed,2014,
+unknown,unknown,fixed,2014,
+unknown,unknown,end of life,2018,
+configuration,unknown,unknown,2018,
+operating system,unknown,fixed,2018,
+boot,unknown,repairable,2018,
+boot,unknown,repairable,2018,
+performance,dell,fixed,2014,
+case/chassis,unknown,fixed,2018,
+case/chassis,unknown,repairable,2018,
+performance,unknown,fixed,2018,
+unknown,unknown,unknown,2018,
+case/chassis,unknown,fixed,2014,
+integrated pointing device,apple,repairable,2018,
+system board,acer,end of life,2018,
+integrated keyboard,unknown,fixed,2018,
+integrated media component,asus,fixed,2018,
+performance,sony,repairable,2018,
+integrated keyboard,unknown,repairable,2013,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+performance,hp,fixed,2014,
+overheating,unknown,repairable,2018,
+integrated screen,unknown,repairable,2018,
+performance,unknown,repairable,2014,
+unknown,lenovo,fixed,2018,
+integrated screen,acer,repairable,2018,
+unknown,unknown,end of life,2014,
+boot,unknown,repairable,2014,
+overheating,dell,end of life,2013,
+integrated screen,apple,fixed,2014,
+performance,unknown,repairable,2018,
+integrated screen,unknown,repairable,2014,
+case/chassis,unknown,fixed,2014,
+configuration,lenovo,fixed,2018,
+configuration,unknown,fixed,2018,
+unknown,unknown,fixed,2014,
+unknown,unknown,fixed,2014,
+boot,unknown,fixed,2019,
+virus/malware,lenovo,fixed,2015,
+internal storage,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+performance,apple,fixed,2019,
+performance,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+overheating,unknown,repairable,2019,
+unknown,apple,unknown,2015,
+integrated screen,asus,repairable,2019,
+internal damage,unknown,repairable,2019,
+integrated screen,unknown,repairable,2019,
+power/battery,unknown,repairable,2019,
+overheating,apple,repairable,2015,
+case/chassis,lenovo,repairable,2019,
+integrated media component,unknown,repairable,2019,
+integrated optical drive,unknown,fixed,2019,
+other,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,fixed,2015,
+unknown,apple,fixed,2019,
+performance,apple,fixed,2019,
+unknown,unknown,fixed,2015,
+power/battery,acer,fixed,2019,
+integrated screen,apple,repairable,2019,
+integrated screen,acer,repairable,2019,
+integrated keyboard,unknown,repairable,2019,
+unknown,unknown,repairable,2019,
+power/battery,acer,repairable,2015,
+power/battery,unknown,fixed,2019,
+boot,unknown,end of life,2019,
+power/battery,unknown,repairable,2019,
+integrated media component,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+integrated screen,hp,repairable,2015,
+internal storage,toshiba,repairable,2015,
+unknown,unknown,end of life,2019,
+unknown,asus,fixed,2019,
+internal damage,apple,repairable,2019,
+integrated keyboard,dell,fixed,2015,
+boot,asus,fixed,2015,
+ports/slots/connectors,apple,fixed,2019,
+power/battery,unknown,end of life,2019,
+unknown,unknown,fixed,2015,
+integrated optical drive,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+operating system,unknown,fixed,2019,
+ports/slots/connectors,samsung,end of life,2013,
+unknown,unknown,fixed,2015,
+operating system,unknown,fixed,2019,
+boot,unknown,repairable,2019,
+virus/malware,unknown,fixed,2019,
+integrated keyboard,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+operating system,unknown,repairable,2019,
+integrated screen,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+ports/slots/connectors,unknown,fixed,2019,
+unknown,hp,fixed,2019,
+virus/malware,unknown,fixed,2019,
+integrated screen,unknown,repairable,2015,
+performance,dell,repairable,2019,
+integrated screen,unknown,repairable,2019,
+internal damage,asus,end of life,2019,
+operating system,hp,repairable,2019,
+unknown,unknown,repairable,2019,
+multiple,apple,repairable,2019,
+power/battery,apple,repairable,2019,
+virus/malware,unknown,fixed,2019,
+boot,toshiba,repairable,2013,
+performance,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+other,unknown,fixed,2019,
+configuration,unknown,repairable,2019,
+unknown,unknown,end of life,2019,
+unknown,unknown,end of life,2019,
+system board,unknown,repairable,2019,
+performance,unknown,fixed,2015,
+integrated keyboard,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+configuration,apple,fixed,2019,
+integrated screen,unknown,end of life,2019,
+system board,unknown,fixed,2019,
+internal storage,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+integrated pointing device,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,apple,fixed,2019,
+integrated keyboard,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+integrated pointing device,unknown,fixed,2015,
+ports/slots/connectors,unknown,fixed,2019,
+integrated keyboard,dell,repairable,2019,
+ports/slots/connectors,unknown,fixed,2015,
+integrated keyboard,unknown,repairable,2019,
+overheating,lenovo,unknown,2019,
+unknown,apple,fixed,2019,
+configuration,unknown,fixed,2013,
+boot,unknown,end of life,2019,
+performance,unknown,fixed,2019,
+performance,unknown,end of life,2019,
+internal storage,unknown,fixed,2019,
+integrated media component,unknown,unknown,2015,
+performance,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+virus/malware,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+virus/malware,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+boot,unknown,end of life,2019,
+unknown,unknown,fixed,2015,
+unknown,unknown,end of life,2019,
+unknown,unknown,repairable,2019,
+unknown,unknown,end of life,2015,
+unknown,unknown,repairable,2019,
+multiple,hp,end of life,2019,
+operating system,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+unknown,apple,repairable,2019,
+integrated screen,apple,repairable,2019,
+integrated screen,toshiba,repairable,2019,
+virus/malware,unknown,fixed,2019,
+power/battery,lenovo,repairable,2019,
+configuration,acer,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,end of life,2015,
+other,unknown,fixed,2019,
+internal storage,apple,fixed,2015,
+power/battery,asus,end of life,2013,
+system board,unknown,repairable,2019,
+unknown,unknown,end of life,2019,
+virus/malware,hp,repairable,2019,
+multiple,apple,fixed,2019,
+unknown,toshiba,end of life,2019,
+performance,unknown,fixed,2015,
+boot,unknown,end of life,2019,
+boot,unknown,fixed,2019,
+boot,unknown,end of life,2019,
+boot,unknown,repairable,2019,
+integrated pointing device,unknown,fixed,2019,
+boot,toshiba,end of life,2013,
+integrated screen,unknown,end of life,2019,
+internal storage,unknown,end of life,2019,
+internal damage,lenovo,end of life,2019,
+ports/slots/connectors,hp,repairable,2019,
+power/battery,hp,repairable,2019,
+performance,dell,end of life,2013,
+unknown,lenovo,unknown,2019,
+configuration,hp,repairable,2015,
+virus/malware,samsung,fixed,2015,
+integrated screen,toshiba,repairable,2015,
+system board,lenovo,repairable,2019,
+boot,apple,fixed,2019,
+overheating,apple,fixed,2019,
+configuration,apple,fixed,2019,
+configuration,apple,fixed,2019,
+unknown,apple,fixed,2019,
+unknown,apple,fixed,2019,
+overheating,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+system board,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+integrated screen,unknown,fixed,2019,
+ports/slots/connectors,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+unknown,unknown,fixed,2019,
+boot,apple,fixed,2019,
+unknown,unknown,repairable,2019,
+performance,unknown,end of life,2019,
+boot,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+unknown,unknown,end of life,2019,
+system board,dell,end of life,2019,
+unknown,hp,unknown,2019,
+configuration,dell,repairable,2015,
+integrated media component,apple,repairable,2015,
+performance,packard bell,fixed,2013,
+unknown,unknown,unknown,2019,
+performance,unknown,repairable,2019,
+configuration,asus,repairable,2019,
+system board,sony,repairable,2019,
+internal damage,apple,repairable,2019,
+integrated screen,apple,repairable,2013,
+ports/slots/connectors,unknown,fixed,2019,
+case/chassis,unknown,repairable,2019,
+ports/slots/connectors,unknown,repairable,2019,
+unknown,unknown,end of life,2015,
+boot,lenovo,fixed,2019,
+other,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+ports/slots/connectors,unknown,fixed,2019,
+unknown,unknown,repairable,2019,
+operating system,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+overheating,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+integrated pointing device,samsung,fixed,2015,
+integrated screen,hp,fixed,2015,
+ports/slots/connectors,acer,repairable,2019,
+system board,apple,end of life,2015,
+ports/slots/connectors,apple,end of life,2015,
+power/battery,unknown,fixed,2013,
+power/battery,unknown,repairable,2019,
+system board,asus,fixed,2015,
+unknown,unknown,repairable,2019,
+overheating,compaq,fixed,2015,
+power/battery,unknown,fixed,2013,
+case/chassis,asus,fixed,2015,
+performance,unknown,fixed,2015,
+performance,unknown,fixed,2015,
+configuration,unknown,fixed,2015,
+boot,unknown,fixed,2013,
+performance,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+internal storage,apple,repairable,2015,
+internal storage,unknown,fixed,2019,
+case/chassis,toshiba,repairable,2019,
+boot,unknown,repairable,2013,
+power/battery,unknown,repairable,2019,
+operating system,acer,fixed,2019,
+operating system,hp,fixed,2019,
+performance,apple,repairable,2015,
+operating system,acer,fixed,2019,
+integrated screen,fujitsu,fixed,2019,
+boot,toshiba,fixed,2019,
+integrated screen,unknown,repairable,2019,
+case/chassis,unknown,fixed,2019,
+integrated keyboard,unknown,repairable,2019,
+configuration,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+integrated screen,unknown,repairable,2019,
+configuration,unknown,fixed,2019,
+unknown,unknown,end of life,2019,
+configuration,unknown,repairable,2019,
+integrated screen,apple,repairable,2015,
+configuration,dell,fixed,2019,
+integrated keyboard,toshiba,repairable,2019,
+unknown,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+system board,unknown,repairable,2013,
+configuration,asus,fixed,2015,
+power/battery,dell,repairable,2019,
+case/chassis,unknown,fixed,2015,
+configuration,unknown,repairable,2015,
+integrated screen,compaq,fixed,2015,
+power/battery,unknown,fixed,2015,
+unknown,unknown,unknown,2019,
+power/battery,unknown,fixed,2015,
+case/chassis,qilive,fixed,2019,
+unknown,vaio,fixed,2019,
+multiple,unknown,repairable,2019,
+operating system,unknown,repairable,2019,
+other,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+integrated screen,unknown,repairable,2019,
+configuration,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+case/chassis,unknown,repairable,2019,
+integrated screen,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+boot,unknown,end of life,2015,
+performance,toshiba,fixed,2015,
+system board,unknown,repairable,2019,
+performance,apple,repairable,2015,
+performance,unknown,end of life,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+integrated screen,unknown,repairable,2019,
+unknown,unknown,fixed,2015,
+integrated screen,unknown,repairable,2019,
+integrated screen,unknown,repairable,2019,
+integrated screen,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+configuration,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+boot,unknown,fixed,2019,
+power/battery,unknown,fixed,2019,
+integrated keyboard,unknown,end of life,2019,
+integrated screen,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+overheating,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+case/chassis,mac,repairable,2019,
+power/battery,apple,end of life,2013,
+unknown,unknown,unknown,2019,
+virus/malware,unknown,fixed,2019,
+overheating,unknown,repairable,2019,
+boot,unknown,end of life,2019,
+performance,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+ports/slots/connectors,unknown,repairable,2019,
+configuration,unknown,fixed,2019,
+integrated pointing device,unknown,end of life,2019,
+boot,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+power/battery,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+integrated screen,unknown,repairable,2019,
+performance,unknown,end of life,2019,
+boot,unknown,fixed,2019,
+boot,unknown,end of life,2019,
+performance,unknown,fixed,2019,
+boot,unknown,end of life,2019,
+boot,unknown,end of life,2019,
+boot,unknown,repairable,2019,
+unknown,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+overheating,toshiba,fixed,2019,
+performance,unknown,fixed,2015,
+performance,acer,fixed,2019,
+performance,unknown,fixed,2019,
+other,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+integrated keyboard,unknown,repairable,2019,
+unknown,unknown,repairable,2019,
+integrated screen,asos,repairable,2019,
+unknown,lenovo,fixed,2019,
+unknown,unknown,end of life,2019,
+unknown,acer,fixed,2019,
+unknown,acer,end of life,2019,
+unknown,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+integrated pointing device,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+internal damage,unknown,end of life,2019,
+ports/slots/connectors,unknown,repairable,2019,
+multiple,unknown,fixed,2019,
+configuration,unknown,fixed,2019,
+boot,unknown,fixed,2019,
+configuration,unknown,fixed,2015,
+operating system,unknown,fixed,2015,
+operating system,sony,fixed,2019,
+operating system,unknown,repairable,2019,
+operating system,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+multiple,unknown,end of life,2019,
+integrated screen,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+case/chassis,unknown,repairable,2019,
+configuration,unknown,fixed,2015,
+performance,apple,fixed,2015,
+overheating,unknown,fixed,2015,
+unknown,dell,repairable,2019,
+performance,hp,fixed,2019,
+unknown,dell,fixed,2019,
+unknown,sony,fixed,2019,
+unknown,lenovo,repairable,2019,
+unknown,unknown,repairable,2015,
+ports/slots/connectors,unknown,fixed,2015,
+power/battery,unknown,fixed,2015,
+overheating,unknown,fixed,2015,
+integrated keyboard,unknown,fixed,2019,
+operating system,unknown,fixed,2019,
+power/battery,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+performance,unknown,repairable,2019,
+boot,unknown,fixed,2019,
+power/battery,asus,repairable,2015,
+integrated keyboard,unknown,fixed,2019,
+overheating,unknown,fixed,2019,
+power/battery,hp,end of life,2015,
+integrated screen,dell,repairable,2015,
+power/battery,dell,repairable,2015,
+operating system,unknown,repairable,2015,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+performance,unknown,fixed,2019,
+internal storage,unknown,repairable,2019,
+performance,unknown,fixed,2019,
+performance,unknown,repairable,2019,
+power/battery,unknown,repairable,2019,
+power/battery,apple,repairable,2015,
+ports/slots/connectors,apple,repairable,2019,
+ports/slots/connectors,unknown,fixed,2019,
+boot,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+unknown,samsung,repairable,2015,
+configuration,unknown,repairable,2015,
+configuration,sony,fixed,2015,
+performance,acer,repairable,2015,
+power/battery,babyliss,end of life,2019,
+virus/malware,hp,repairable,2019,
+power/battery,unknown,fixed,2019,
+power/battery,unknown,repairable,2019,
+overheating,hp,repairable,2015,
+unknown,asus,fixed,2015,
+other,unknown,fixed,2019,
+case/chassis,unknown,fixed,2015,
+integrated screen,dell,repairable,2019,
+integrated keyboard,samsung,repairable,2019,
+unknown,unknown,repairable,2015,
+case/chassis,unknown,repairable,2019,
+boot,unknown,repairable,2019,
+operating system,apple,fixed,2019,
+unknown,unknown,fixed,2015,
+unknown,hp,fixed,2019,
+operating system,unknown,fixed,2019,
+operating system,unknown,end of life,2019,
+performance,unknown,fixed,2019,
+configuration,unknown,repairable,2019,
+configuration,unknown,repairable,2019,
+operating system,unknown,repairable,2019,
+configuration,unknown,end of life,2019,
+integrated keyboard,unknown,fixed,2013,
+virus/malware,lenovo,fixed,2019,
+unknown,unknown,fixed,2019,
+integrated screen,apple,repairable,2015,
+integrated screen,apple,repairable,2019,
+integrated screen,dell,repairable,2019,
+power/battery,unknown,repairable,2019,
+internal storage,ibm,fixed,2015,
+integrated screen,unknown,repairable,2015,
+ports/slots/connectors,unknown,fixed,2015,
+ports/slots/connectors,apple,fixed,2015,
+boot,unknown,fixed,2015,
+configuration,dell,fixed,2015,
+performance,apple,fixed,2015,
+integrated keyboard,unknown,fixed,2020,
+internal storage,unknown,repairable,2020,
+power/battery,unknown,repairable,2020,
+power/battery,unknown,fixed,2020,
+virus/malware,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+unknown,hp,fixed,2020,
+performance,unknown,repairable,2020,
+performance,unknown,fixed,2015,
+operating system,unknown,end of life,2015,
+configuration,unknown,end of life,2015,
+operating system,toshiba,fixed,2020,
+virus/malware,apple,fixed,2020,
+performance,unknown,fixed,2015,
+configuration,apple,fixed,2020,
+internal damage,unknown,fixed,2015,
+integrated screen,unknown,end of life,2020,
+system board,unknown,end of life,2020,
+integrated screen,asus,repairable,2020,
+integrated screen,unknown,repairable,2015,
+integrated screen,lenovo,fixed,2015,
+performance,apple,fixed,2015,
+configuration,lenovo,fixed,2020,
+internal storage,asus,repairable,2020,
+virus/malware,unknown,fixed,2015,
+power/battery,samsung,repairable,2020,
+virus/malware,unknown,end of life,2013,
+integrated screen,apple,repairable,2013,
+performance,lenovo,repairable,2015,
+power/battery,ibm,fixed,2015,
+ports/slots/connectors,acer,fixed,2015,
+case/chassis,unknown,fixed,2020,
+configuration,unknown,repairable,2015,
+configuration,hp,fixed,2015,
+unknown,unknown,repairable,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+virus/malware,unknown,fixed,2015,
+unknown,unknown,fixed,2020,
+performance,hp,fixed,2015,
+performance,hp,repairable,2015,
+operating system,hp,fixed,2020,
+internal storage,hp,fixed,2020,
+virus/malware,hp,fixed,2020,
+performance,unknown,fixed,2020,
+power/battery,unknown,fixed,2020,
+performance,unknown,fixed,2020,
+integrated keyboard,unknown,repairable,2020,
+unknown,unknown,fixed,2020,
+unknown,unknown,fixed,2020,
+ports/slots/connectors,unknown,fixed,2020,
+ports/slots/connectors,unknown,repairable,2020,
+unknown,unknown,repairable,2020,
+operating system,hp,fixed,2015,
+power/battery,ibm,fixed,2015,
+performance,acer,repairable,2020,
+internal storage,hp,repairable,2015,
+boot,unknown,end of life,2013,
+ports/slots/connectors,asus,fixed,2020,
+operating system,unknown,fixed,2020,
+performance,unknown,fixed,2020,
+power/battery,unknown,repairable,2020,
+internal damage,unknown,end of life,2020,
+performance,hp,repairable,2020,
+integrated media component,toshiba,fixed,2015,
+system board,unknown,end of life,2015,
+power/battery,samsung,end of life,2015,
+configuration,medion,fixed,2020,
+configuration,hp,fixed,2020,
+configuration,lenovo,fixed,2020,
+unknown,unknown,fixed,2020,
+ports/slots/connectors,fujitsu,repairable,2020,
+power/battery,acer,fixed,2020,
+overheating,unbranded,fixed,2015,
+unknown,acer,fixed,2015,
+configuration,sony,fixed,2020,
+power/battery,apple,fixed,2015,
+performance,samsung,fixed,2015,
+ports/slots/connectors,acer,fixed,2015,
+power/battery,unknown,fixed,2015,
+performance,apple,fixed,2015,
+power/battery,apple,fixed,2013,
+power/battery,unknown,fixed,2013,
+unknown,unknown,fixed,2015,
+boot,dell,fixed,2013,
+integrated screen,unknown,end of life,2013,
+unknown,unknown,fixed,2015,
+unknown,unknown,end of life,2015,
+unknown,unknown,end of life,2015,
+unknown,unknown,repairable,2015,
+performance,hp,fixed,2015,
+performance,apple,fixed,2015,
+performance,sony,fixed,2015,
+performance,dell,repairable,2013,
+power/battery,toshiba,repairable,2015,
+power/battery,dell,repairable,2015,
+boot,compaq,repairable,2015,
+integrated screen,apple,repairable,2015,
+overheating,dell,end of life,2013,
+power/battery,unknown,fixed,2015,
+operating system,toshiba,fixed,2015,
+integrated screen,dell,fixed,2015,
+power/battery,packard bell,end of life,2013,
+performance,acer,fixed,2015,
+performance,apple,fixed,2015,
+integrated optical drive,hp,repairable,2013,
+operating system,unknown,fixed,2015,
+boot,acer,end of life,2013,
+unknown,unknown,fixed,2015,
+unknown,unknown,end of life,2015,
+boot,toshiba,fixed,2013,
+performance,lenovo,fixed,2015,
+internal storage,samsung,repairable,2015,
+overheating,dell,fixed,2015,
+power/battery,apple,fixed,2015,
+overheating,lenovo,fixed,2015,
+ports/slots/connectors,asus,fixed,2015,
+boot,hp,fixed,2015,
+power/battery,asus,repairable,2015,
+power/battery,acer,repairable,2015,
+ports/slots/connectors,acer,fixed,2015,
+unknown,unknown,fixed,2015,
+unknown,unknown,fixed,2015,
+ports/slots/connectors,samsung,fixed,2013,
+system board,apple,fixed,2015,
+power/battery,apple,end of life,2015,
+overheating,hp,repairable,2015,
+integrated screen,apple,fixed,2015,
+performance,hp,fixed,2015,
+integrated screen,toshiba,repairable,2015,
+system board,hp,repairable,2015,
+power/battery,apple,fixed,2015,
+integrated screen,hp,repairable,2016,
+integrated optical drive,acer,fixed,2016,
+performance,lenovo,fixed,2016,
+internal storage,hp,fixed,2016,
+power/battery,hp,end of life,2013,
+unknown,unknown,end of life,2016,
+virus/malware,toshiba,repairable,2016,
+integrated pointing device,apple,repairable,2013,
+virus/malware,hp,fixed,2016,
+power/battery,apple,repairable,2016,
+power/battery,acer,fixed,2016,
+configuration,toshiba,repairable,2016,
+integrated keyboard,apple,fixed,2013,
+ports/slots/connectors,acer,repairable,2016,
+performance,unknown,fixed,2013,
+power/battery,unknown,fixed,2016,
+integrated screen,acer,fixed,2016,
+boot,unknown,fixed,2013,
+unknown,hp,fixed,2016,
+unknown,unknown,fixed,2016,
+unknown,asus,end of life,2016,
+integrated screen,unknown,end of life,2013,
+overheating,unknown,end of life,2013,
+virus/malware,toshiba,repairable,2016,
+power/battery,unknown,repairable,2013,
+operating system,fujitsu,fixed,2016,
+configuration,acer,fixed,2016,
+performance,samsung,repairable,2016,
+internal damage,acer,end of life,2016,
+internal damage,unknown,repairable,2016,
+power/battery,toshiba,end of life,2016,
+boot,dell,repairable,2016,
+unknown,dell,repairable,2016,
+internal damage,apple,repairable,2016,
+overheating,unknown,fixed,2016,
+performance,unknown,repairable,2016,
+unknown,unknown,fixed,2016,
+boot,unknown,fixed,2016,
+overheating,unknown,fixed,2016,
+unknown,unknown,fixed,2013,
+internal storage,apple,fixed,2016,
+performance,sony,fixed,2016,
+integrated screen,asus,repairable,2016,
+virus/malware,unknown,repairable,2016,
+performance,sony,fixed,2016,
+system board,toshiba,fixed,2016,
+power/battery,dell,fixed,2016,
+internal storage,apple,fixed,2016,
+integrated screen,sony,repairable,2016,
+operating system,advent,repairable,2016,
+power/battery,unknown,fixed,2013,
+performance,unknown,fixed,2013,
+unknown,unknown,repairable,2013,
+performance,apple,fixed,2013,
+virus/malware,apple,repairable,2016,
+integrated screen,toshiba,repairable,2016,
+power/battery,unknown,repairable,2013,
+operating system,samsung,repairable,2016,
+power/battery,dell,repairable,2016,
+internal storage,dell,fixed,2016,
+internal storage,apple,repairable,2016,
+power/battery,sony,repairable,2016,
+internal storage,apple,repairable,2013,
+performance,apple,fixed,2016,
+performance,unknown,repairable,2013,
+performance,toshiba,fixed,2016,
+unknown,unknown,repairable,2013,
+configuration,unknown,repairable,2013,
+performance,dell,repairable,2016,
+integrated screen,unknown,repairable,2013,
+performance,apple,fixed,2016,
+performance,apple,fixed,2016,
+ports/slots/connectors,samsung,fixed,2016,
+configuration,hp,repairable,2016,
+internal storage,toshiba,repairable,2016,
+configuration,unknown,fixed,2016,
+power/battery,unknown,repairable,2013,
+internal storage,apple,repairable,2016,
+integrated media component,unknown,repairable,2013,
+virus/malware,hp,fixed,2016,
+boot,dell,repairable,2016,
+performance,asus,repairable,2016,
+overheating,panasonic,repairable,2016,
+unknown,unknown,fixed,2016,
+operating system,dell,fixed,2016,
+operating system,hp,fixed,2016,
+performance,toshiba,fixed,2016,
+operating system,apple,repairable,2016,
+power/battery,apple,fixed,2016,
+performance,unknown,repairable,2013,
+unknown,hp,fixed,2016,
+unknown,apple,fixed,2016,
+unknown,dell,end of life,2016,
+unknown,unknown,repairable,2013,
+unknown,unknown,fixed,2013,
+unknown,unknown,fixed,2013,
+unknown,unknown,end of life,2013,
+boot,acer,repairable,2016,
+internal storage,hp,fixed,2016,
+performance,sony,fixed,2016,
+integrated pointing device,compaq,fixed,2016,
+unknown,asus,fixed,2016,
+configuration,unknown,fixed,2016,
+power/battery,apple,repairable,2016,
+virus/malware,unknown,repairable,2016,
+virus/malware,unknown,fixed,2016,
+unknown,unknown,repairable,2016,
+configuration,unknown,repairable,2016,
+operating system,unknown,fixed,2016,
+unknown,unknown,repairable,2016,
+configuration,unknown,fixed,2016,
+performance,samsung,fixed,2016,
+operating system,lenovo,fixed,2016,
+unknown,asus,end of life,2016,
+power/battery,toshiba,repairable,2013,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+overheating,unknown,fixed,2013,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+boot,toshiba,repairable,2013,
+internal storage,apple,fixed,2016,
+internal storage,apple,fixed,2016,
+operating system,unknown,fixed,2016,
+integrated screen,sony,fixed,2016,
+configuration,acer,fixed,2016,
+ports/slots/connectors,hp,fixed,2016,
+unknown,unknown,fixed,2016,
+overheating,hp,repairable,2016,
+integrated pointing device,apple,fixed,2016,
+boot,unknown,end of life,2013,
+performance,apple,fixed,2016,
+power/battery,acer,end of life,2016,
+unknown,acer,fixed,2016,
+power/battery,samsung,repairable,2016,
+performance,dospara,repairable,2016,
+operating system,toshiba,repairable,2016,
+ports/slots/connectors,unknown,repairable,2016,
+ports/slots/connectors,unknown,repairable,2016,
+boot,unknown,end of life,2013,
+internal storage,unknown,repairable,2016,
+unknown,unknown,repairable,2016,
+power/battery,apple,fixed,2016,
+multiple,toshiba,fixed,2016,
+ports/slots/connectors,unknown,fixed,2013,
+operating system,asus,fixed,2016,
+performance,toshiba,fixed,2016,
+case/chassis,asus,repairable,2016,
+power/battery,apple,repairable,2016,
+virus/malware,toshiba,fixed,2016,
+performance,toshiba,fixed,2016,
+ports/slots/connectors,toshiba,end of life,2013,
+performance,toshiba,repairable,2016,
+ports/slots/connectors,unknown,repairable,2016,
+integrated screen,toshiba,fixed,2016,
+unknown,packard bell,repairable,2016,
+unknown,apple,fixed,2013,
+unknown,apple,repairable,2016,
+unknown,unknown,fixed,2016,
+unknown,unknown,fixed,2016,
+ports/slots/connectors,dell,end of life,2013,
+unknown,unknown,end of life,2016,
+unknown,unknown,fixed,2016,
+configuration,dell,fixed,2013,
+performance,unknown,fixed,2016,
+integrated screen,unknown,repairable,2016,
+integrated keyboard,unknown,fixed,2016,
+performance,apple,fixed,2016,
+performance,unknown,fixed,2016,
+unknown,unknown,fixed,2014,
+performance,toshiba,repairable,2016,
+performance,acer,fixed,2016,
+performance,acer,fixed,2016,
+performance,apple,repairable,2016,
+internal storage,dell,repairable,2016,
+ports/slots/connectors,acer,fixed,2016,
+internal storage,unknown,fixed,2016,
+unknown,unknown,fixed,2014,
+unknown,unknown,end of life,2016,
+unknown,unknown,end of life,2016,
+unknown,unknown,repairable,2016,
+performance,dell,fixed,2014,
+performance,hp,repairable,2016,
+ports/slots/connectors,unknown,fixed,2016,
+unknown,dell,repairable,2016,
+overheating,unknown,fixed,2016,
+overheating,apple,fixed,2016,
+unknown,samsung,fixed,2016,
+power/battery,apple,repairable,2016,
+power/battery,sony,repairable,2016,
+integrated screen,apple,fixed,2016,
+power/battery,sony,repairable,2016,
+ports/slots/connectors,hp,repairable,2016,
+operating system,samsung,repairable,2016,
+boot,dell,repairable,2016,
+unknown,toshiba,repairable,2016,
+configuration,toshiba,fixed,2016,
+power/battery,ibm,fixed,2014,
+virus/malware,dell,repairable,2016,
+configuration,asus,repairable,2016,
+performance,apple,repairable,2016,
+performance,apple,fixed,2016,
+performance,acer,fixed,2016,
+overheating,unknown,repairable,2016,
+performance,unknown,fixed,2016,
+unknown,unknown,fixed,2016,
+performance,apple,fixed,2016,
+system board,apple,repairable,2016,
+unknown,unknown,repairable,2016,
+power/battery,unknown,repairable,2016,
+boot,unknown,end of life,2014,
+configuration,unknown,repairable,2016,
+case/chassis,unknown,repairable,2016,
+unknown,apple,repairable,2016,
+power/battery,apple,repairable,2016,
+power/battery,acer,end of life,2013,
+system board,hp,fixed,2016,
+configuration,hp,fixed,2016,
+overheating,toshiba,fixed,2016,
+system board,dell,end of life,2016,
+virus/malware,hp,fixed,2016,
+performance,dell,repairable,2016,
+performance,unknown,fixed,2016,
+power/battery,apple,fixed,2016,
+ports/slots/connectors,unknown,repairable,2016,
+performance,unknown,repairable,2016,
+internal storage,apple,fixed,2016,
+unknown,unknown,end of life,2016,
+internal storage,unknown,fixed,2016,
+overheating,apple,fixed,2016,
+unknown,unknown,fixed,2016,
+integrated screen,unknown,fixed,2016,
+boot,unknown,fixed,2016,
+integrated keyboard,dell,repairable,2014,
+integrated screen,unknown,fixed,2016,
+power/battery,unknown,end of life,2016,
+integrated screen,unknown,repairable,2016,
+ports/slots/connectors,unknown,fixed,2016,
+power/battery,unknown,repairable,2016,
+performance,apple,fixed,2016,
+ports/slots/connectors,unknown,fixed,2016,
+performance,unknown,fixed,2016,
+unknown,unknown,fixed,2016,
+integrated pointing device,unknown,end of life,2014,
+power/battery,dell,repairable,2016,
+performance,hp,fixed,2016,
+configuration,unknown,fixed,2016,
+overheating,unknown,fixed,2014,
+unknown,toshiba,fixed,2016,
+ports/slots/connectors,unknown,end of life,2014,
+power/battery,apple,fixed,2016,
+integrated keyboard,hp,fixed,2016,
+integrated keyboard,unknown,fixed,2014,
+configuration,lenovo,fixed,2016,
+performance,dell,repairable,2016,
+configuration,unknown,fixed,2016,
+performance,unknown,repairable,2016,
+overheating,hp,fixed,2016,
+performance,unknown,fixed,2016,
+internal damage,unknown,fixed,2016,
+power/battery,acer,end of life,2016,
+integrated keyboard,dell,fixed,2016,
+overheating,unknown,fixed,2016,
+integrated screen,apple,repairable,2016,
+overheating,unknown,fixed,2016,
+internal storage,unknown,repairable,2016,
+performance,unknown,end of life,2014,
+performance,unknown,fixed,2016,
+unknown,unknown,fixed,2016,
+internal storage,hp,repairable,2016,
+integrated optical drive,unknown,fixed,2014,
+integrated screen,hp,repairable,2016,
+operating system,hp,fixed,2016,
+configuration,dell,fixed,2016,
+integrated screen,unknown,end of life,2014,
+power/battery,unknown,end of life,2014,
+internal storage,apple,fixed,2016,
+performance,unknown,repairable,2014,
+system board,asus,fixed,2016,
+performance,toshiba,repairable,2014,
+performance,apple,fixed,2016,
+performance,toshiba,repairable,2014,
+power/battery,apple,fixed,2016,
+power/battery,samsung,fixed,2014,
+internal storage,hp,fixed,2016,
+performance,asus,fixed,2016,
+performance,sony,fixed,2016,
+performance,dell,fixed,2016,
+performance,dell,fixed,2016,
+integrated screen,apple,repairable,2016,
+performance,unknown,fixed,2014,
+performance,toshiba,fixed,2016,
+performance,dell,fixed,2016,
+performance,dell,repairable,2016,
+configuration,toshiba,repairable,2016,
+unknown,apple,repairable,2016,
+performance,hp,fixed,2016,
+performance,acer,repairable,2016,
+configuration,sony,fixed,2016,
+power/battery,hp,end of life,2016,
+power/battery,lenovo,end of life,2016,
+unknown,unknown,end of life,2016,
+unknown,acer,fixed,2016,
+unknown,asus,fixed,2016,
+unknown,olivetti,fixed,2016,
+unknown,sarmiento,fixed,2016,
+integrated screen,unknown,repairable,2014,
+power/battery,unknown,repairable,2014,
+ports/slots/connectors,dell,repairable,2016,
+multiple,hp,repairable,2014,
+performance,acer,fixed,2016,
+performance,acer,fixed,2016,
+performance,asus,fixed,2016,
+integrated keyboard,hp,fixed,2016,
+performance,hp,fixed,2016,
+performance,acer,fixed,2016,
+internal damage,hp,repairable,2016,
+configuration,rock,fixed,2016,
+internal damage,hp,fixed,2016,
+integrated media component,toshiba,fixed,2016,
+integrated screen,hp,repairable,2016,
+configuration,unknown,end of life,2016,
+power/battery,unknown,end of life,2016,
+internal storage,unknown,end of life,2016,
+configuration,unknown,fixed,2016,
+configuration,unknown,fixed,2016,
+integrated optical drive,unknown,fixed,2016,
+performance,unknown,fixed,2016,
+performance,apple,end of life,2016,
+case/chassis,unknown,fixed,2016,
+power/battery,unknown,end of life,2016,
+unknown,unknown,repairable,2014,
+power/battery,hp,end of life,2016,
+boot,unknown,fixed,2016,
+unknown,lenovo,repairable,2016,
+configuration,unknown,end of life,2016,
+performance,hp,fixed,2016,
+unknown,unknown,fixed,2014,
+configuration,sony,fixed,2016,
+unknown,unknown,repairable,2014,
+unknown,toshiba,repairable,2016,
+unknown,unknown,fixed,2014,
+integrated screen,apple,fixed,2016,
+power/battery,apple,fixed,2016,
+operating system,unknown,fixed,2017,
+power/battery,unknown,end of life,2014,
+ports/slots/connectors,acer,repairable,2017,
+performance,unknown,fixed,2017,
+internal storage,unknown,fixed,2017,
+operating system,unknown,end of life,2017,
+integrated screen,unknown,repairable,2017,
+system board,apple,repairable,2017,
+power/battery,apple,fixed,2017,
+performance,compaq,fixed,2017,
+operating system,toshiba,fixed,2017,
+system board,asus,fixed,2017,
+configuration,hp,repairable,2017,
+unknown,unknown,fixed,2014,
+internal storage,apple,repairable,2017,
+integrated keyboard,unknown,fixed,2014,
+unknown,apple,repairable,2017,
+integrated keyboard,lenovo,repairable,2017,
+boot,asus,fixed,2017,
+overheating,asus,fixed,2017,
+performance,apple,fixed,2017,
+power/battery,dell,repairable,2017,
+performance,dell,fixed,2017,
+operating system,samsung,repairable,2017,
+performance,apple,fixed,2017,
+integrated keyboard,asus,fixed,2017,
+integrated screen,apple,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+performance,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+power/battery,apple,repairable,2017,
+operating system,dell,fixed,2017,
+internal storage,unknown,end of life,2017,
+integrated optical drive,unknown,fixed,2017,
+internal storage,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+power/battery,unknown,repairable,2014,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+boot,unknown,repairable,2013,
+configuration,unknown,fixed,2014,
+integrated screen,toshiba,repairable,2017,
+internal damage,sony,repairable,2017,
+performance,apple,fixed,2017,
+overheating,toshiba,fixed,2017,
+integrated screen,acer,fixed,2017,
+internal storage,apple,fixed,2017,
+performance,apple,fixed,2017,
+integrated screen,apple,fixed,2017,
+performance,asus,fixed,2017,
+case/chassis,acer,repairable,2017,
+ports/slots/connectors,unknown,fixed,2014,
+internal storage,apple,fixed,2017,
+power/battery,unknown,repairable,2017,
+performance,dell,fixed,2017,
+performance,hp,fixed,2017,
+performance,asus,repairable,2017,
+performance,asus,repairable,2017,
+internal damage,toshiba,end of life,2017,
+performance,sony,end of life,2017,
+performance,toshiba,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+system board,hp,end of life,2017,
+unknown,asus,repairable,2017,
+operating system,dell,repairable,2017,
+configuration,apple,fixed,2017,
+operating system,samsung,repairable,2017,
+integrated screen,dell,repairable,2017,
+ports/slots/connectors,acer,fixed,2017,
+integrated keyboard,asus,repairable,2017,
+power/battery,apple,repairable,2017,
+operating system,sony,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+configuration,dell,repairable,2017,
+unknown,lenovo,repairable,2017,
+unknown,apple,repairable,2017,
+ports/slots/connectors,unknown,fixed,2017,
+operating system,unknown,fixed,2014,
+case/chassis,unknown,repairable,2014,
+unknown,unknown,end of life,2017,
+case/chassis,unknown,repairable,2014,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+integrated screen,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+integrated screen,apple,fixed,2017,
+internal damage,apple,fixed,2017,
+integrated pointing device,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+power/battery,apple,fixed,2017,
+performance,toshiba,fixed,2017,
+ports/slots/connectors,raspberry pi,end of life,2017,
+power/battery,unknown,end of life,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+power/battery,unknown,repairable,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+overheating,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+internal storage,unknown,end of life,2014,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+integrated screen,asus,repairable,2017,
+integrated screen,sony,end of life,2013,
+operating system,lenovo,fixed,2017,
+unknown,unknown,end of life,2017,
+overheating,apple,fixed,2017,
+configuration,acer,fixed,2017,
+unknown,dell,repairable,2017,
+unknown,apple,fixed,2017,
+power/battery,asus,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+integrated screen,unknown,repairable,2017,
+boot,toshiba,repairable,2017,
+power/battery,acer,repairable,2017,
+operating system,samsung,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated keyboard,apple,fixed,2017,
+integrated screen,apple,fixed,2017,
+power/battery,apple,fixed,2017,
+power/battery,apple,fixed,2017,
+integrated pointing device,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+system board,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+performance,apple,fixed,2017,
+integrated screen,toshiba,fixed,2017,
+integrated screen,toshiba,fixed,2017,
+integrated screen,toshiba,fixed,2017,
+integrated optical drive,unknown,end of life,2014,
+integrated screen,toshiba,fixed,2017,
+integrated screen,toshiba,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+internal damage,hp,end of life,2013,
+unknown,unknown,end of life,2014,
+integrated screen,dell,repairable,2014,
+case/chassis,unknown,end of life,2017,
+integrated keyboard,apple,fixed,2017,
+performance,unknown,fixed,2017,
+integrated screen,unknown,repairable,2017,
+power/battery,unknown,repairable,2014,
+unknown,asus,fixed,2017,
+integrated screen,unknown,end of life,2014,
+power/battery,unknown,end of life,2014,
+unknown,sony,repairable,2017,
+unknown,unknown,repairable,2017,
+integrated screen,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+performance,unknown,fixed,2014,
+power/battery,toshiba,end of life,2014,
+performance,apple,fixed,2014,
+unknown,unknown,end of life,2017,
+operating system,asus,fixed,2017,
+integrated screen,acer,repairable,2017,
+unknown,unknown,fixed,2014,
+performance,hp,repairable,2017,
+unknown,unknown,end of life,2017,
+integrated screen,fujitsu,fixed,2017,
+unknown,unknown,end of life,2014,
+performance,toshiba,repairable,2017,
+power/battery,acer,fixed,2017,
+overheating,acer,fixed,2017,
+unknown,unknown,end of life,2014,
+internal storage,unknown,repairable,2017,
+power/battery,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2014,
+performance,toshiba,repairable,2017,
+unknown,unknown,fixed,2014,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2014,
+unknown,acer,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+integrated optical drive,unknown,repairable,2014,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+case/chassis,unknown,fixed,2014,
+unknown,unknown,end of life,2017,
+power/battery,lenovo,repairable,2017,
+performance,hp,repairable,2017,
+performance,lenovo,fixed,2017,
+integrated keyboard,asus,fixed,2017,
+power/battery,apple,repairable,2017,
+boot,asus,fixed,2017,
+ports/slots/connectors,acer,repairable,2017,
+configuration,unknown,repairable,2017,
+configuration,unknown,fixed,2017,
+integrated media component,toshiba,fixed,2017,
+power/battery,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+system board,hp,fixed,2017,
+power/battery,unknown,fixed,2017,
+internal storage,sony,fixed,2017,
+power/battery,unknown,fixed,2014,
+overheating,hp,fixed,2017,
+internal storage,dell,repairable,2017,
+internal storage,toshiba,repairable,2017,
+system board,acer,end of life,2017,
+performance,unknown,fixed,2017,
+operating system,unknown,fixed,2017,
+internal storage,apple,repairable,2017,
+boot,acer,end of life,2017,
+power/battery,unknown,end of life,2013,
+overheating,toshiba,fixed,2017,
+power/battery,unknown,fixed,2014,
+internal storage,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+overheating,acer,end of life,2017,
+operating system,unknown,repairable,2017,
+boot,apple,repairable,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+power/battery,asus,fixed,2017,
+unknown,unknown,fixed,2014,
+integrated screen,clevo,repairable,2017,
+power/battery,apple,repairable,2017,
+integrated screen,acer,repairable,2017,
+integrated screen,lenovo,repairable,2017,
+performance,asus,repairable,2017,
+overheating,unknown,fixed,2014,
+performance,hp,fixed,2017,
+internal storage,hp,fixed,2017,
+performance,dell,fixed,2017,
+performance,sony,repairable,2017,
+power/battery,unknown,fixed,2014,
+integrated screen,unknown,repairable,2017,
+integrated screen,apple,repairable,2017,
+integrated screen,lenovo,repairable,2017,
+ports/slots/connectors,unknown,repairable,2017,
+integrated screen,unknown,fixed,2017,
+boot,unknown,repairable,2013,
+boot,unknown,repairable,2014,
+case/chassis,unknown,fixed,2014,
+performance,sony,fixed,2017,
+power/battery,dell,repairable,2017,
+integrated screen,msr,repairable,2017,
+performance,hp,fixed,2017,
+performance,toshiba,fixed,2017,
+performance,samsung,repairable,2017,
+unknown,unknown,fixed,2017,
+other,sony,repairable,2017,
+integrated screen,unknown,repairable,2013,
+boot,unknown,fixed,2014,
+overheating,compaq,fixed,2017,
+internal storage,sony,repairable,2017,
+ports/slots/connectors,acer,fixed,2017,
+performance,sony,fixed,2017,
+integrated screen,unknown,repairable,2014,
+performance,sony,fixed,2017,
+internal storage,unknown,end of life,2014,
+performance,apple,fixed,2017,
+performance,acer,fixed,2017,
+performance,hp,repairable,2017,
+case/chassis,compaq,repairable,2017,
+integrated optical drive,hp,fixed,2017,
+unknown,unknown,repairable,2014,
+integrated screen,dell,fixed,2017,
+power/battery,apple,fixed,2017,
+power/battery,apple,fixed,2017,
+integrated optical drive,unknown,repairable,2014,
+integrated screen,microsoft,end of life,2017,
+power/battery,apple,fixed,2017,
+power/battery,apple,fixed,2017,
+performance,hp,fixed,2017,
+power/battery,dell,repairable,2017,
+integrated pointing device,unknown,fixed,2014,
+integrated pointing device,toshiba,fixed,2017,
+unknown,unknown,fixed,2014,
+performance,dell,fixed,2017,
+configuration,compaq,fixed,2017,
+unknown,unknown,repairable,2017,
+boot,unknown,repairable,2013,
+system board,samsung,fixed,2017,
+ports/slots/connectors,apple,repairable,2014,
+unknown,hp,repairable,2017,
+case/chassis,lenovo,repairable,2017,
+performance,unknown,repairable,2014,
+virus/malware,samsung,repairable,2017,
+performance,unknown,fixed,2017,
+performance,apple,fixed,2014,
+integrated media component,toshiba,repairable,2017,
+system board,apple,end of life,2013,
+operating system,unknown,repairable,2014,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+power/battery,apple,fixed,2017,
+integrated screen,hp,fixed,2017,
+ports/slots/connectors,sony,fixed,2017,
+performance,hp,fixed,2017,
+performance,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,apple,end of life,2017,
+configuration,unknown,fixed,2017,
+configuration,acer,fixed,2017,
+system board,samsung,end of life,2013,
+configuration,unknown,fixed,2017,
+configuration,unknown,fixed,2017,
+configuration,hp,fixed,2017,
+power/battery,apple,fixed,2017,
+power/battery,apple,fixed,2017,
+power/battery,compaq,repairable,2017,
+performance,unknown,repairable,2017,
+unknown,unknown,fixed,2014,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2014,
+power/battery,compaq,repairable,2017,
+power/battery,toshiba,repairable,2017,
+performance,packard bell,fixed,2017,
+configuration,acer,repairable,2017,
+integrated screen,acer,repairable,2017,
+performance,acer,fixed,2017,
+unknown,unknown,repairable,2017,
+integrated screen,dell,repairable,2017,
+operating system,apple,repairable,2017,
+virus/malware,hp,fixed,2017,
+operating system,dell,fixed,2017,
+unknown,unknown,fixed,2014,
+performance,toshiba,fixed,2017,
+operating system,apple,fixed,2017,
+power/battery,hp,fixed,2017,
+case/chassis,unknown,fixed,2017,
+internal storage,packard bell,repairable,2017,
+unknown,hp,fixed,2017,
+overheating,toshiba,repairable,2017,
+configuration,dell,fixed,2017,
+overheating,toshiba,fixed,2017,
+power/battery,apple,end of life,2014,
+integrated media component,sony,repairable,2013,
+internal damage,apple,repairable,2014,
+unknown,acer,fixed,2017,
+operating system,unknown,fixed,2014,
+operating system,apple,fixed,2017,
+integrated screen,apple,repairable,2014,
+operating system,hp,fixed,2017,
+integrated screen,toshiba,end of life,2014,
+power/battery,apple,fixed,2017,
+internal damage,hp,repairable,2017,
+ports/slots/connectors,unknown,repairable,2017,
+performance,unknown,fixed,2013,
+virus/malware,asus,fixed,2017,
+power/battery,unknown,end of life,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+performance,unknown,fixed,2014,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,repairable,2017,
+ports/slots/connectors,asus,fixed,2017,
+power/battery,dell,repairable,2017,
+ports/slots/connectors,apple,repairable,2017,
+performance,lenovo,repairable,2017,
+power/battery,dell,repairable,2017,
+ports/slots/connectors,hp,repairable,2017,
+unknown,asus,fixed,2017,
+unknown,unknown,fixed,2017,
+unknown,unknown,end of life,2017,
+unknown,unknown,fixed,2014,
+virus/malware,apple,fixed,2017,
+performance,unknown,repairable,2017,
+overheating,hp,fixed,2017,
+performance,apple,fixed,2017,
+power/battery,samsung,end of life,2017,
+performance,dell,fixed,2017,
+ports/slots/connectors,asus,fixed,2017,
+performance,apple,fixed,2017,
+boot,unknown,end of life,2014,
+power/battery,apple,fixed,2018,
+power/battery,apple,fixed,2018,
+boot,apple,fixed,2014,
+power/battery,apple,fixed,2018,
+unknown,lenovo,repairable,2018,
+unknown,asus,fixed,2018,
+integrated screen,apple,repairable,2014,
+unknown,toshiba,fixed,2018,
+ports/slots/connectors,unknown,fixed,2014,
+unknown,hp,repairable,2018,
+internal storage,unknown,repairable,2018,
+configuration,unknown,repairable,2018,
+performance,apple,fixed,2014,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+performance,unknown,fixed,2014,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,hp,repairable,2018,
+performance,unknown,repairable,2014,
+power/battery,unknown,repairable,2018,
+power/battery,apple,fixed,2018,
+power/battery,apple,fixed,2018,
+performance,unknown,repairable,2014,
+performance,dell,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+internal storage,apple,fixed,2014,
+overheating,acer,fixed,2018,
+performance,compaq,fixed,2014,
+unknown,unknown,end of life,2018,
+overheating,hp,repairable,2018,
+boot,hp,repairable,2018,
+performance,asus,fixed,2018,
+integrated screen,unknown,fixed,2014,
+integrated screen,hp,repairable,2018,
+unknown,unknown,fixed,2018,
+integrated screen,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+internal damage,unknown,repairable,2018,
+integrated keyboard,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+system board,unknown,repairable,2014,
+power/battery,unknown,repairable,2018,
+performance,unknown,fixed,2018,
+configuration,unknown,fixed,2018,
+integrated screen,unknown,fixed,2018,
+multiple,unknown,repairable,2018,
+internal storage,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+performance,unknown,repairable,2018,
+unknown,hp,repairable,2018,
+unknown,hp,fixed,2018,
+power/battery,hp,repairable,2014,
+unknown,dell,repairable,2014,
+integrated keyboard,lenovo,fixed,2018,
+integrated screen,apple,repairable,2014,
+power/battery,unknown,repairable,2014,
+unknown,hp,fixed,2018,
+unknown,unknown,fixed,2018,
+integrated screen,unknown,repairable,2014,
+operating system,dell,repairable,2018,
+performance,sony,fixed,2018,
+integrated keyboard,hp,repairable,2018,
+power/battery,acer,repairable,2014,
+integrated screen,unknown,repairable,2018,
+integrated screen,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+power/battery,unknown,fixed,2018,
+configuration,unknown,repairable,2018,
+integrated screen,hp,repairable,2014,
+boot,unknown,end of life,2018,
+integrated keyboard,unknown,fixed,2018,
+integrated optical drive,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+integrated screen,unknown,repairable,2018,
+performance,unknown,repairable,2018,
+integrated pointing device,apple,repairable,2018,
+configuration,apple,fixed,2014,
+performance,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+integrated keyboard,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+configuration,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+power/battery,samsung,end of life,2018,
+performance,medion,fixed,2018,
+performance,medion,fixed,2018,
+unknown,apple,end of life,2013,
+internal storage,apple,repairable,2018,
+integrated screen,sony,repairable,2018,
+power/battery,dell,repairable,2018,
+performance,sony,fixed,2018,
+performance,sony,fixed,2018,
+performance,unknown,fixed,2014,
+boot,unknown,repairable,2014,
+integrated screen,unknown,fixed,2014,
+performance,unknown,repairable,2014,
+integrated screen,unknown,fixed,2014,
+boot,unknown,fixed,2018,
+power/battery,apple,fixed,2014,
+integrated keyboard,hp,repairable,2018,
+performance,unknown,fixed,2018,
+power/battery,lenovo,fixed,2018,
+internal storage,apple,fixed,2018,
+ports/slots/connectors,hp,repairable,2018,
+boot,unknown,repairable,2018,
+integrated screen,apple,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2014,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+performance,apple,fixed,2014,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+performance,acer,fixed,2014,
+performance,acer,fixed,2014,
+integrated screen,hp,fixed,2018,
+performance,hp,fixed,2018,
+integrated screen,unknown,fixed,2018,
+boot,apple,end of life,2018,
+unknown,unknown,repairable,2018,
+internal storage,unknown,end of life,2014,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2014,
+configuration,sony,fixed,2018,
+configuration,unknown,end of life,2014,
+unknown,acer,fixed,2018,
+unknown,unknown,fixed,2018,
+performance,acer,fixed,2018,
+boot,hp,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+performance,apple,fixed,2014,
+system board,apple,repairable,2018,
+system board,unknown,end of life,2018,
+case/chassis,unknown,repairable,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+performance,unknown,repairable,2014,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+boot,unknown,end of life,2013,
+performance,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+operating system,acer,repairable,2018,
+power/battery,hp,repairable,2018,
+internal storage,apple,repairable,2018,
+unknown,lenovo,end of life,2018,
+overheating,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+performance,unknown,fixed,2014,
+unknown,unknown,end of life,2018,
+ports/slots/connectors,hp,unknown,2018,
+configuration,unknown,fixed,2018,
+boot,unknown,end of life,2014,
+power/battery,dell,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,fixed,2014,
+ports/slots/connectors,asos,fixed,2018,
+configuration,dell,fixed,2018,
+performance,unknown,repairable,2014,
+configuration,dell,repairable,2018,
+unknown,unknown,fixed,2018,
+configuration,unknown,fixed,2014,
+integrated screen,unknown,fixed,2014,
+boot,toshiba,fixed,2018,
+operating system,unknown,repairable,2014,
+operating system,packard bell,fixed,2018,
+unknown,unknown,fixed,2018,
+system board,unknown,end of life,2014,
+operating system,unknown,repairable,2014,
+internal storage,unknown,fixed,2014,
+performance,dell,fixed,2014,
+boot,unknown,fixed,2014,
+boot,unknown,fixed,2014,
+case/chassis,hp,fixed,2018,
+configuration,acer,fixed,2014,
+boot,lenovo,fixed,2014,
+ports/slots/connectors,acer,fixed,2013,
+performance,acer,fixed,2014,
+boot,unknown,fixed,2014,
+power/battery,toshiba,repairable,2018,
+unknown,apple,repairable,2018,
+unknown,unknown,fixed,2014,
+performance,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+performance,unknown,fixed,2018,
+integrated screen,unknown,repairable,2018,
+power/battery,unknown,end of life,2018,
+power/battery,unknown,repairable,2018,
+operating system,unknown,fixed,2018,
+operating system,unknown,repairable,2018,
+unknown,apple,repairable,2018,
+power/battery,unknown,end of life,2018,
+overheating,unknown,fixed,2018,
+configuration,unknown,fixed,2018,
+integrated screen,unknown,end of life,2018,
+overheating,unknown,fixed,2018,
+integrated screen,unknown,repairable,2018,
+performance,unknown,repairable,2018,
+integrated keyboard,apple,repairable,2018,
+power/battery,unknown,fixed,2018,
+boot,unknown,repairable,2018,
+boot,unknown,fixed,2018,
+unknown,apple,repairable,2018,
+integrated keyboard,unknown,fixed,2018,
+integrated media component,unknown,repairable,2018,
+unknown,unknown,fixed,2014,
+unknown,unknown,end of life,2014,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2014,
+unknown,unknown,fixed,2014,
+unknown,unknown,repairable,2018,
+integrated screen,dell,fixed,2014,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,end of life,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+integrated media component,sony,fixed,2014,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+unknown,unknown,repairable,2018,
+ports/slots/connectors,apple,repairable,2014,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+unknown,unknown,repairable,2018,
+configuration,unknown,repairable,2014,
+performance,unknown,fixed,2014,
+internal storage,hp,repairable,2018,
+boot,unknown,fixed,2014,
+unknown,unknown,repairable,2018,
+performance,acer,repairable,2014,
+performance,hp,end of life,2013,
+operating system,unknown,repairable,2018,
+integrated screen,unknown,end of life,2018,
+performance,unknown,fixed,2018,
+integrated screen,unknown,fixed,2018,
+boot,unknown,repairable,2018,
+integrated screen,unknown,end of life,2018,
+operating system,unknown,repairable,2018,
+performance,unknown,fixed,2018,
+configuration,unknown,fixed,2018,
+integrated screen,unknown,repairable,2018,
+unknown,unknown,fixed,2018,
+virus/malware,unknown,fixed,2018,
+power/battery,unknown,fixed,2014,
+boot,unknown,end of life,2018,
+overheating,unknown,fixed,2018,
+boot,apple,end of life,2014,
+performance,unknown,fixed,2018,
+integrated screen,acer,repairable,2018,
+virus/malware,unknown,unknown,2018,
+boot,dell,end of life,2013,
+operating system,unknown,fixed,2018,
+internal storage,unknown,repairable,2014,
+integrated keyboard,unknown,repairable,2014,
+unknown,unknown,fixed,2018,
+unknown,unknown,fixed,2018,
